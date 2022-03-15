@@ -1,0 +1,564 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+td, th {
+	border-style:solid;
+	border-width:1pt;
+}
+table {
+	border-collapse:collapse;
+}
+li {
+	display:block;
+}
+body {
+	-epub-hyphens:auto;
+	-webkit-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0pt;
+}
+p.Bez-odstavcov-ho-stylu {
+	color:#000000;
+	font-family:"Times New Roman", serif;
+	font-size:1em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+	margin-top:0pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Z-kladn--text {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Titul {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	break-before:page;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1;
+	margin-bottom:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+	margin-top:0pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Motto {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0pt;
+	margin-left:45pt;
+	margin-right:0pt;
+	margin-top:0pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Vro-en- {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.75em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.556;
+	margin-bottom:13pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:13pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.N-zev-b-sn- {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	break-before:page;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.917em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.364;
+	margin-bottom:13pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:24pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Sb-rka {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	break-before:page;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.25;
+	margin-bottom:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+	margin-top:48pt;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0pt;
+	text-transform:uppercase;
+}
+p.Podsb-rka {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	break-before:page;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1.333em;
+	font-style:normal;
+	font-weight:bold;
+	line-height:1.125;
+	margin-bottom:0pt;
+	margin-left:0pt;
+	margin-right:0pt;
+	margin-top:24pt;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0pt;
+	text-transform:uppercase;
+}
+p.Z-kladn--text-vpravo {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Z-kladn--text-4-5mm {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:13pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Z-kladn--text-blok {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.venovani-nova-str {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:13pt;
+	margin-left:0pt;
+	margin-right:0pt;
+	margin-top:24pt;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Z-kladn--text-kurz-va-nova-str {
+	break-before:page;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0pt;
+	margin-left:45pt;
+	margin-right:0pt;
+	margin-top:24pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.MLP2-textbez1radku-nova-str {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:14pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:13pt;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.MLP-text-bez1radku {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.MLP-licence-paragraf {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1.667em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:6pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.MLP-licence-text {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.1;
+	margin-bottom:10pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.MLP-licence-obrazek {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:5pt;
+	margin-left:0pt;
+	margin-right:0pt;
+	margin-top:6pt;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.MLP-obrazky {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:6pt;
+	margin-left:0pt;
+	margin-right:0pt;
+	margin-top:12pt;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.MLP2-tiraz-autor {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:1.167em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1;
+	margin-bottom:0pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:13pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.MLP2-text-bez1radku-12-0 {
+	-epub-line-break:normal;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:12pt;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.MLP2-text-bez1radku {
+	-epub-line-break:normal;
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Z-kladn--text-kurz-va {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:italic;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0pt;
+	margin-left:12pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.Z-kladn--text-5mm-zleva {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:9pt;
+	margin-left:24pt;
+	margin-right:12pt;
+	margin-top:0pt;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0pt;
+}
+p.styl-pro-obsah-h2 {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0pt;
+	margin-left:14pt;
+	margin-right:0pt;
+	margin-top:0pt;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0pt;
+}
+span.Hyperlink {
+	color:#0000ff;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:underline;
+}
+span.MLP-licence-hypertext {
+	color:#0000ff;
+	font-family:Cambria, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-weight:normal;
+	text-decoration:underline;
+}
+span.Znakov--styl1 {
+	color:#000000;
+	font-family:Cambria, serif;
+	font-size:0.833em;
+	font-style:normal;
+	font-weight:bold;
+}
+span.publikace {
+	font-family:"Century Gothic (TT) Bold", sans-serif;
+	font-size:0.667em;
+	font-style:normal;
+	font-weight:normal;
+}
+p.para-style-override-1 {
+	margin-top:14pt;
+	text-align:center;
+}
+p.para-style-override-2 {
+	margin-bottom:14pt;
+}
+p.para-style-override-3 {
+	margin-bottom:28pt;
+	margin-top:14pt;
+}
+p.para-style-override-4 {
+	break-after:page;
+}
+p.para-style-override-5 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family:Cambria, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-weight:bold;
+	text-align:center;
+}
+p.para-style-override-6 {
+	-epub-hyphens:none;
+	-webkit-hyphens:none;
+	font-family:Cambria, serif;
+	font-size:0.75em;
+	font-style:normal;
+	font-weight:bold;
+	text-align:right;
+}
+p.para-style-override-7 {
+	text-align:center;
+}
+p.para-style-override-8 {
+	font-style:normal;
+	font-weight:bold;
+	margin-bottom:6pt;
+}
+p.para-style-override-9 {
+	font-style:normal;
+	font-weight:bold;
+}
+p.para-style-override-10 {
+	text-align:right;
+}
+span.char-style-override-1 {
+	font-size:1.03em;
+}
+span.char-style-override-2 {
+	font-size:1em;
+}
+span.char-style-override-3 {
+	color:#3a53a4;
+}
+span.char-style-override-4 {
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-5 {
+	font-size:1.111em;
+}
+span.char-style-override-6 {
+	font-family:Cambria, serif;
+	font-size:1em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-7 {
+	font-family:Cambria, serif;
+	font-size:0.727em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.char-style-override-8 {
+	font-size:0.9em;
+	font-style:italic;
+	font-weight:normal;
+}
+span.char-style-override-9 {
+	font-family:Cambria, serif;
+	font-style:normal;
+	font-weight:normal;
+}
+img.frame-1 {
+	max-width:100%;
+	height:100%;
+}
+div.frame-2 {
+	margin:0px auto 0px auto;
+	text-align:center;
+}
+img.frame-3 {
+	width:22%;
+}

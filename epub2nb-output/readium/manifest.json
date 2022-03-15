@@ -1,0 +1,1609 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Magorovy labutí písně",
+    "identifier": "urn:uuid:e687ed89-9d93-4291-985f-754e4e39c82b",
+    "author": "Ivan Martin Jirous",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2022-03-15T15:46:51.114Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_092.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_093.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_094.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_095.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_096.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_097.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_098.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_099.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_100.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_101.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_102.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_103.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_104.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_105.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_106.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_107.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_108.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_109.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_110.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_111.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_112.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_113.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_114.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_115.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_116.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_117.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_118.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_119.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_120.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_121.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_122.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_123.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_124.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_125.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_126.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_127.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_128.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_129.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_130.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_131.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_132.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_133.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_134.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_135.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_136.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_137.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_138.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_139.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_140.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_141.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_142.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_143.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_144.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_145.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_146.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_147.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_148.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_149.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_150.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_151.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_152.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_153.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_154.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_155.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_156.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_157.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_158.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_159.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_160.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_161.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_162.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_163.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_164.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_165.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_166.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_167.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_168.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_169.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_170.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_171.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_172.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_173.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_174.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_175.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_176.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_177.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_178.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_179.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_180.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_181.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_182.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_183.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_184.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_185.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_186.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_187.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_188.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_189.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_190.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_191.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_192.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_193.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_194.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_195.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_196.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_197.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_198.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_199.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_200.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/magorovy_l_idstyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/OBALKA01-0004426228_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/Obraz14564_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/Obraz14571_fmt.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy_jirous_fmt.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I. Labuť sv. Huga",
+      "children": [
+        {
+          "title": "– – – (Jak dlouho Bože ještě snesu)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_008.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "– – – (Služební psi na dvoře vyjí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_009.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "– – – (Monotónní můj itinerář posledních let)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_010.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "– – – (Když jsme se blížili k Valdicím alejí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_011.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "– – – (Víš ty Bože vůbec o mně)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_012.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "– – – (Na Mírově jsem makal v kapli)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_013.xhtml#toc_marker-1-6"
+        },
+        {
+          "title": "– – – (A tak vychutnám si zas)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_014.xhtml#toc_marker-1-7"
+        },
+        {
+          "title": "– – – (Z téhle noci mě nezachrání)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_015.xhtml#toc_marker-1-8"
+        },
+        {
+          "title": "– – – (Kdybych to nebral religiózně)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_016.xhtml#toc_marker-1-9"
+        },
+        {
+          "title": "– – – (Na průčelí cygnus olor)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_017.xhtml#toc_marker-1-10"
+        },
+        {
+          "title": "– – – (Odpočívají bílé myšky)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_018.xhtml#toc_marker-1-11"
+        },
+        {
+          "title": "– – – (Svět se připravuje k střetu)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_019.xhtml#toc_marker-1-12"
+        },
+        {
+          "title": "– – – (V neštěstí se vždycky hbitě)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_020.xhtml#toc_marker-1-13"
+        },
+        {
+          "title": "– – – (Vidím že píšu o pekle)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_021.xhtml#toc_marker-1-14"
+        },
+        {
+          "title": "– – – (Jenom to Pane vědět chci)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_022.xhtml#toc_marker-1-15"
+        },
+        {
+          "title": "– – – (Krásná je hora Mt. St Michel)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_023.xhtml#toc_marker-1-16"
+        },
+        {
+          "title": "– – – (I se starým dobrým Lombrosem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_024.xhtml#toc_marker-1-17"
+        },
+        {
+          "title": "– – – (Špatně se skládá elegie)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_025.xhtml#toc_marker-1-18"
+        },
+        {
+          "title": "– – – (Tytam jsou s milenkami strasti)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_026.xhtml#toc_marker-1-19"
+        },
+        {
+          "title": "– – – (Odpusť nám Bože naše viny)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_027.xhtml#toc_marker-1-20"
+        },
+        {
+          "title": "– – – (Oknem se blíží vůně tújí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_028.xhtml#toc_marker-1-21"
+        },
+        {
+          "title": "– – – (Sv. Hugo Grenobelský)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_029.xhtml#toc_marker-1-22"
+        },
+        {
+          "title": "– – – (Troufám si jenom ostýchavě)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_030.xhtml#toc_marker-1-23"
+        },
+        {
+          "title": "– – – (Ze zrcadla se loupe rtuť)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_031.xhtml#toc_marker-1-24"
+        },
+        {
+          "title": "– – – (Dneska poprvé pokušení)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_032.xhtml#toc_marker-1-25"
+        },
+        {
+          "title": "– – – (Viď tak se uzel za uzlem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_033.xhtml#toc_marker-1-26"
+        },
+        {
+          "title": "– – – (Rozumu snad jsi mě Bože už dočista zbavil)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_034.xhtml#toc_marker-1-27"
+        },
+        {
+          "title": "– – – (Píseň si zpívám má jeden takt)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_035.xhtml#toc_marker-1-28"
+        },
+        {
+          "title": "– – – (Pomoz mi svatý Antoníne)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_036.xhtml#toc_marker-1-29"
+        },
+        {
+          "title": "– – – (Že jsem si vzpomněl než jsem to vzdal)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_037.xhtml#toc_marker-1-30"
+        },
+        {
+          "title": "– – – (Jen s nimi mluvím a mám zas)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_038.xhtml#toc_marker-1-31"
+        },
+        {
+          "title": "– – – (Pořád Pane Bože věřím)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_039.xhtml#toc_marker-1-32"
+        },
+        {
+          "title": "– – – (Napsal jste Bondy slavné ódy)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_040.xhtml#toc_marker-1-33"
+        },
+        {
+          "title": "– – – (Jednou za čas se snese)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_041.xhtml#toc_marker-1-34"
+        },
+        {
+          "title": "– – – (I ve vězení mám nápady jak snob)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_042.xhtml#toc_marker-1-35"
+        },
+        {
+          "title": "– – – (Tak jako v houslích)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_043.xhtml#toc_marker-1-36"
+        },
+        {
+          "title": "– – – (Když vypustí nás z našich cel)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_044.xhtml#toc_marker-1-37"
+        },
+        {
+          "title": "– – – (Na dvoře v Kartouzích)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_045.xhtml#toc_marker-1-38"
+        },
+        {
+          "title": "– – – (Neplavil jsem se po mořích)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_046.xhtml#toc_marker-1-39"
+        },
+        {
+          "title": "– – – (Kartuziáni se slibem mlčení už odebrali se na věčnost)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_047.xhtml#toc_marker-1-40"
+        },
+        {
+          "title": "– – – (Jako by rdousila mě krajta)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_048.xhtml#toc_marker-1-41"
+        },
+        {
+          "title": "– – – (Týdny měsíce léta jdou)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_049.xhtml#toc_marker-1-42"
+        },
+        {
+          "title": "– – – (Málo je líbezný)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_050.xhtml#toc_marker-1-43"
+        },
+        {
+          "title": "– – – (Komenský po požáru v Lešně)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_051.xhtml#toc_marker-1-44"
+        },
+        {
+          "title": "– – – (Nad Valdicemi krouží rorýs)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_052.xhtml#toc_marker-1-45"
+        },
+        {
+          "title": "– – – (Každý nese co unese)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_053.xhtml#toc_marker-1-46"
+        },
+        {
+          "title": "– – – (Ach nejsem nejsem Oscar Wilde)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_054.xhtml#toc_marker-1-47"
+        },
+        {
+          "title": "– – – (Nevím zda svítá nebo tmí se)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_055.xhtml#toc_marker-1-48"
+        },
+        {
+          "title": "– – – (S nebe se dívá T. G. Masaryk)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_056.xhtml#toc_marker-1-49"
+        },
+        {
+          "title": "– – – (Řekl jsi: mihi vindictam)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_057.xhtml#toc_marker-1-50"
+        },
+        {
+          "title": "– – – (Ani heřmánek ani rum)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_058.xhtml#toc_marker-1-51"
+        },
+        {
+          "title": "– – – (Genius loci zřejmě mi)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_059.xhtml#toc_marker-1-52"
+        },
+        {
+          "title": "– – – (Ledové svírají srdce kry)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_060.xhtml#toc_marker-1-53"
+        },
+        {
+          "title": "– – – (Skrz mříže slyším přes tu dálku)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_061.xhtml#toc_marker-1-54"
+        },
+        {
+          "title": "– – – (V naší rodině ponuře)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_062.xhtml#toc_marker-1-55"
+        },
+        {
+          "title": "– – – (Po letech jenom noční můra)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_063.xhtml#toc_marker-1-56"
+        },
+        {
+          "title": "– – – (Mí spolužáci)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_064.xhtml#toc_marker-1-57"
+        },
+        {
+          "title": "– – – (Apokalyptické saranče)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_065.xhtml#toc_marker-1-58"
+        },
+        {
+          "title": "– – – (Tuší snad jenom Amnesty)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_066.xhtml#toc_marker-1-59"
+        },
+        {
+          "title": "– – – (Chystají pro mne vyhnanství)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_067.xhtml#toc_marker-1-60"
+        },
+        {
+          "title": "– – – (Cibule kostelů zlátnou a zrají)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_068.xhtml#toc_marker-1-61"
+        },
+        {
+          "title": "– – – (Trpělivě Bůh na Kartouzy)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_069.xhtml#toc_marker-1-62"
+        },
+        {
+          "title": "– – – (Píše mi žena v dopise:)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_070.xhtml#toc_marker-1-63"
+        },
+        {
+          "title": "– – – (Jen to nutkání k oběšení)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_071.xhtml#toc_marker-1-64"
+        },
+        {
+          "title": "– – – (Čtu Julianin dopis v tichu)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_072.xhtml#toc_marker-1-65"
+        },
+        {
+          "title": "– – – (Pod hlohem odváděli mne)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_073.xhtml#toc_marker-1-66"
+        },
+        {
+          "title": "– – – (Začal jsem s André Bretonem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_074.xhtml#toc_marker-1-67"
+        },
+        {
+          "title": "– – – (Pokaždé když jsem v klauzuře)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_075.xhtml#toc_marker-1-68"
+        },
+        {
+          "title": "– – – (Po třetí vlaštovkám zaroste ozobí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_076.xhtml#toc_marker-1-69"
+        },
+        {
+          "title": "– – – (Tři dny před svátkem sv. Anny)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_077.xhtml#toc_marker-1-70"
+        },
+        {
+          "title": "– – – (Sub tumultuoso coelo)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_078.xhtml#toc_marker-1-71"
+        },
+        {
+          "title": "– – – (Den po Panny Marie Nanebevzetí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_079.xhtml#toc_marker-1-72"
+        },
+        {
+          "title": "– – – (Nějak už se mi kreatury)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_080.xhtml#toc_marker-1-73"
+        },
+        {
+          "title": "– – – (Jestli mě ještě po páté)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_081.xhtml#toc_marker-1-74"
+        },
+        {
+          "title": "– – – (Už vědět nechtějí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_082.xhtml#toc_marker-1-75"
+        },
+        {
+          "title": "– – – (Markétka po biřmování)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_083.xhtml#toc_marker-1-76"
+        },
+        {
+          "title": "– – – (Chuť nemám ani inspiraci)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_084.xhtml#toc_marker-1-77"
+        },
+        {
+          "title": "– – – (Bílé pivoňky začly kvést)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_085.xhtml#toc_marker-1-78"
+        },
+        {
+          "title": "– – – (Zřejmě je Bože Tvojí vůlí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_086.xhtml#toc_marker-1-79"
+        },
+        {
+          "title": "– – – (K narozeninám dal mi nakladatel)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_087.xhtml#toc_marker-1-80"
+        },
+        {
+          "title": "– – – (Kamení sv. Štěpánovi)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_088.xhtml#toc_marker-1-81"
+        },
+        {
+          "title": "– – – (Každý básník tvoří jak umí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_089.xhtml#toc_marker-1-82"
+        }
+      ],
+      "href": "OEBPS/Text/magorovy_labuti_pisne_007.xhtml#toc_marker-1"
+    },
+    {
+      "title": "II. Dům s modrým beránkem",
+      "children": [
+        {
+          "title": "– – – (Smutná je holka když chlapa si vezme)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_092.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "– – – (Vráťa vyhlíží ve Vídni)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_093.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "– – – (Sicilští plavci zpívali)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_094.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "– – – (Nebe polité inkoustem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_095.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "– – – (Zlíbilo se Bohu)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_096.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "– – – (U Telče v kupce sena)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_097.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "– – – (V říjnu pojedeš do Vydří)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_098.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "– – – (V té krátké chvíli usínání)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_099.xhtml#toc_marker-2-8"
+        },
+        {
+          "title": "– – – (Poprosím vroucně Marii Pannu)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_100.xhtml#toc_marker-2-9"
+        },
+        {
+          "title": "– – – (Ve vykropeném domečku)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_101.xhtml#toc_marker-2-10"
+        },
+        {
+          "title": "– – – (Když uléhají beránky)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_102.xhtml#toc_marker-2-11"
+        },
+        {
+          "title": "– – – (Proč já nejsem pyromanem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_103.xhtml#toc_marker-2-12"
+        },
+        {
+          "title": "– – – (Okolo Panny Marie)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_104.xhtml#toc_marker-2-13"
+        }
+      ],
+      "href": "OEBPS/Text/magorovy_labuti_pisne_091.xhtml#toc_marker-2"
+    },
+    {
+      "title": "III. MAGOR D’OR",
+      "children": [
+        {
+          "title": "– – – (Obklopeni nenávistí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_107.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "– – – (Vaše duše se k Bohu vrací)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_108.xhtml#toc_marker-3-2"
+        },
+        {
+          "title": "– – – (O milost Pane Bože prosím)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_109.xhtml#toc_marker-3-3"
+        },
+        {
+          "title": "– – – (O nebe prosím Ježíše)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_110.xhtml#toc_marker-3-4"
+        },
+        {
+          "title": "– – – (Syrové maso ukaž v ráně)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_111.xhtml#toc_marker-3-5"
+        },
+        {
+          "title": "– – – (Panně Marii s děťátkem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_112.xhtml#toc_marker-3-6"
+        },
+        {
+          "title": "– – – (Tak nevím když se modlit neumím)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_113.xhtml#toc_marker-3-7"
+        },
+        {
+          "title": "– – – (Anděl smrti si prohlíží)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_114.xhtml#toc_marker-3-8"
+        },
+        {
+          "title": "– – – (Svatý Prokope Ty který jsi)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_115.xhtml#toc_marker-3-9"
+        },
+        {
+          "title": "– – – (Modlím se k zemským patronům)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_116.xhtml#toc_marker-3-10"
+        },
+        {
+          "title": "– – – (Sv. Martine, přímluvče mocný)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_117.xhtml#toc_marker-3-11"
+        },
+        {
+          "title": "– – – (Jilmy porostlé břečťanem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_118.xhtml#toc_marker-3-12"
+        },
+        {
+          "title": "– – – (Hora svlačcem omotaná)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_119.xhtml#toc_marker-3-13"
+        },
+        {
+          "title": "– – – (Na nebi světlo nevídané)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_120.xhtml#toc_marker-3-14"
+        },
+        {
+          "title": "– – – (Rorate coeli desuper)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_121.xhtml#toc_marker-3-15"
+        },
+        {
+          "title": "– – – (Kdybychom uměli být sami)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_122.xhtml#toc_marker-3-16"
+        },
+        {
+          "title": "– – – (V úzkostech volal jsem Beránka)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_123.xhtml#toc_marker-3-17"
+        },
+        {
+          "title": "– – – (Bělejší nad Beránka)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_124.xhtml#toc_marker-3-18"
+        },
+        {
+          "title": "– – – (A nejtěžšího mezi hříchy)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_125.xhtml#toc_marker-3-19"
+        },
+        {
+          "title": "– – – (Na chvíli vítr co vane kam chce ztich)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_126.xhtml#toc_marker-3-20"
+        }
+      ],
+      "href": "OEBPS/Text/magorovy_labuti_pisne_105.xhtml#toc_marker-3"
+    },
+    {
+      "title": "IV. MY LOVERS ARE OVER THE OCEANS",
+      "children": [
+        {
+          "title": "– – – (Těžko píšu bez Brikciuse)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_129.xhtml#toc_marker-4-1"
+        },
+        {
+          "title": "– – – (Zatímco Liška s Brikciusem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_130.xhtml#toc_marker-4-2"
+        },
+        {
+          "title": "– – – (Osud byl ke mně asi drsnej)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_131.xhtml#toc_marker-4-3"
+        },
+        {
+          "title": "– – – (Tak po přátelích v cizině)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_132.xhtml#toc_marker-4-4"
+        },
+        {
+          "title": "– – – (Dodnes tvým slovům Dušane věřím)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_133.xhtml#toc_marker-4-5"
+        },
+        {
+          "title": "– – – (Jestli nebe nezesvětlá)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_134.xhtml#toc_marker-4-6"
+        },
+        {
+          "title": "– – – (Ať mám či nemám na kahánku)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_135.xhtml#toc_marker-4-7"
+        },
+        {
+          "title": "– – – (Vráťa teď okukuje Prátr)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_136.xhtml#toc_marker-4-8"
+        },
+        {
+          "title": "– – – (Když básníkům je prabídně)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_137.xhtml#toc_marker-4-9"
+        },
+        {
+          "title": "– – – (Za velkou louží)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_138.xhtml#toc_marker-4-10"
+        },
+        {
+          "title": "– – – (Pavel Wilson je za vodou)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_139.xhtml#toc_marker-4-11"
+        },
+        {
+          "title": "– – – (Zetlelou přikryti korouhví)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_140.xhtml#toc_marker-4-12"
+        },
+        {
+          "title": "– – – (Na hřbitov v Hrochově Týnci)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_141.xhtml#toc_marker-4-13"
+        },
+        {
+          "title": "– – – (Když dorazil do Montrealu)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_142.xhtml#toc_marker-4-14"
+        },
+        {
+          "title": "– – – (Nenapadá mě žádný rým)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_143.xhtml#toc_marker-4-15"
+        },
+        {
+          "title": "– – – (V doslovu čtu ke Stevensonovi)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_144.xhtml#toc_marker-4-16"
+        },
+        {
+          "title": "– – – (I zavál Janu zoufalou)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_145.xhtml#toc_marker-4-17"
+        },
+        {
+          "title": "– – – (Hovězí porážky nářek zní z jatek)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_146.xhtml#toc_marker-4-18"
+        },
+        {
+          "title": "– – – (Moře Ti ostrov odplavuje)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_147.xhtml#toc_marker-4-19"
+        },
+        {
+          "title": "– – – (Ve vzpomínkách se Praha mi)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_148.xhtml#toc_marker-4-20"
+        }
+      ],
+      "href": "OEBPS/Text/magorovy_labuti_pisne_127.xhtml#toc_marker-4"
+    },
+    {
+      "title": "V. Intermezzo",
+      "children": [
+        {
+          "title": "– – – (Na chvíli jednorožec zdržel se u studánky)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_151.xhtml#toc_marker-5-1"
+        },
+        {
+          "title": "– – – (Ejhle po žebříku Jakubově I. II. III.)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_152.xhtml#toc_marker-5-2"
+        },
+        {
+          "title": "– – – (Olej nalitý na zátoku)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_153.xhtml#toc_marker-5-3"
+        },
+        {
+          "title": "– – – (Na křídlech andělé ji zvedli)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_154.xhtml#toc_marker-5-4"
+        },
+        {
+          "title": "– – – (V mrazu se chvěje ztuhlý lůj)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_155.xhtml#toc_marker-5-5"
+        },
+        {
+          "title": "– – – (Tak vetknuli jí do drdolu)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_156.xhtml#toc_marker-5-6"
+        },
+        {
+          "title": "– – – (Na poli lilií I. II. III. IV. V.)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_157.xhtml"
+        },
+        {
+          "title": "– – – (Svěcenou rosou postříkána)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_158.xhtml#toc_marker-5-7"
+        },
+        {
+          "title": "– – – (Za údolími lesy)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_159.xhtml#toc_marker-5-8"
+        }
+      ],
+      "href": "OEBPS/Text/magorovy_labuti_pisne_149.xhtml#toc_marker-5"
+    },
+    {
+      "title": "VI. Hommage -à Boris Savinkov",
+      "children": [
+        {
+          "title": "– – – (Po ránu mezi ďábly vstávám)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_161.xhtml#toc_marker-6-1"
+        },
+        {
+          "title": "– – – (Poprosím pátera Bonaventuru)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_162.xhtml#toc_marker-6-2"
+        },
+        {
+          "title": "– – – (Ješitnost překvapivá)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_163.xhtml#toc_marker-6-3"
+        },
+        {
+          "title": "– – – (Za plynem jako za ropou)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_164.xhtml#toc_marker-6-4"
+        },
+        {
+          "title": "– – – (Jako by moje rodná zem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_165.xhtml#toc_marker-6-5"
+        },
+        {
+          "title": "– – – (Doktor Dubský si po cestě)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_166.xhtml#toc_marker-6-6"
+        },
+        {
+          "title": "– – – (Daníček se v maringotce)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_167.xhtml#toc_marker-6-7"
+        },
+        {
+          "title": "– – – (Na nebe vystoupil Salvador Dalí)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_168.xhtml#toc_marker-6-8"
+        },
+        {
+          "title": "– – – (Jdou volit cestou z kostela)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_169.xhtml#toc_marker-6-9"
+        },
+        {
+          "title": "– – – (V bělostné říze)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_170.xhtml#toc_marker-6-10"
+        },
+        {
+          "title": "– – – (Z úst věřících se pára sráží)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_171.xhtml#toc_marker-6-11"
+        },
+        {
+          "title": "– – – (Krásné jsou Plastiků Pašije)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_172.xhtml#toc_marker-6-12"
+        },
+        {
+          "title": "– – – (Ptali se svaté Cecilie)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_173.xhtml#toc_marker-6-13"
+        },
+        {
+          "title": "– – – (Vznesl se zástup andělů)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_174.xhtml#toc_marker-6-14"
+        },
+        {
+          "title": "– – – (Saranče z Apokalypsy)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_175.xhtml#toc_marker-6-15"
+        },
+        {
+          "title": "– – – (Dnes stejně jako před lety)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_176.xhtml#toc_marker-6-16"
+        },
+        {
+          "title": "– – – (Kdysi jsi báseň psal)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_177.xhtml#toc_marker-6-17"
+        },
+        {
+          "title": "– – – (Zařvala triumfálním rykem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_178.xhtml#toc_marker-6-18"
+        },
+        {
+          "title": "– – – (Podivně odešel básník Holan)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_179.xhtml#toc_marker-6-19"
+        },
+        {
+          "title": "– – – (Ví v Pelhřimově kdejaký buran)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_180.xhtml#toc_marker-6-20"
+        },
+        {
+          "title": "– – – (Napřeskáčku melu pantem)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_181.xhtml#toc_marker-6-21"
+        },
+        {
+          "title": "– – – (Pročpak mu říkáš vole)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_182.xhtml#toc_marker-6-22"
+        },
+        {
+          "title": "– – – (Na plácek k svatému Mikuláši)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_183.xhtml#toc_marker-6-23"
+        },
+        {
+          "title": "– – – (Panenka Maria snad už je pomstěna)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_184.xhtml#toc_marker-6-24"
+        },
+        {
+          "title": "– – – (Teď Pán Bůh hubí jilmy)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_185.xhtml#toc_marker-6-25"
+        },
+        {
+          "title": "– – – (Bílé květy střemchy už nepohostí chrousty)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_186.xhtml#toc_marker-6-26"
+        },
+        {
+          "title": "– – – (Líbánky vzaly konec zlý)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_187.xhtml#toc_marker-6-27"
+        },
+        {
+          "title": "– – – (Řek mojí ženě doktor Štěpánek)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_188.xhtml#toc_marker-6-28"
+        },
+        {
+          "title": "– – – (Profesor Černý studoval v Dijonu)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_189.xhtml#toc_marker-6-29"
+        },
+        {
+          "title": "– – – (Inženýr Jirous)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_190.xhtml#toc_marker-6-30"
+        },
+        {
+          "title": "– – – (Vzpomínka zastřená přes času dálku: I. II.)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_191.xhtml#toc_marker-6-31"
+        },
+        {
+          "title": "– – – (Důstojníku)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_192.xhtml#toc_marker-6-32"
+        },
+        {
+          "title": "– – – (Už Petra Brodského zbavili souhlasu)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_193.xhtml#toc_marker-6-33"
+        },
+        {
+          "title": "– – – (Už v dětství jsem byl trochu jiný)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_194.xhtml#toc_marker-6-34"
+        },
+        {
+          "title": "– – – (Funus byl pana Reynka)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_195.xhtml#toc_marker-6-35"
+        },
+        {
+          "title": "– – – (Přinesu lilii)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_196.xhtml#toc_marker-6-36"
+        },
+        {
+          "title": "– – – (Nad dvěma slunci)",
+          "href": "OEBPS/Text/magorovy_labuti_pisne_197.xhtml#toc_marker-6-37"
+        }
+      ],
+      "href": "OEBPS/Text/magorovy_labuti_pisne_160.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Komentáře k jednotlivým textům",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_198.xhtml#toc_marker-6-39"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/magorovy_labuti_pisne_199.xhtml#toc_marker-6-40"
+    }
+  ]
+}

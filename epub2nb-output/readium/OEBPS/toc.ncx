@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:e687ed89-9d93-4291-985f-754e4e39c82b" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Magorovy labutí písně</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I. Labuť sv. Huga</text>
+      </navLabel>
+      <content src="Text/magorovy_labuti_pisne_007.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>– – – (Jak dlouho Bože ještě snesu)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_008.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>– – – (Služební psi na dvoře vyjí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_009.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>– – – (Monotónní můj itinerář posledních let)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_010.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>– – – (Když jsme se blížili k Valdicím alejí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_011.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>– – – (Víš ty Bože vůbec o mně)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_012.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>– – – (Na Mírově jsem makal v kapli)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_013.xhtml#toc_marker-1-6"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>– – – (A tak vychutnám si zas)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_014.xhtml#toc_marker-1-7"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>– – – (Z téhle noci mě nezachrání)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_015.xhtml#toc_marker-1-8"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>– – – (Kdybych to nebral religiózně)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_016.xhtml#toc_marker-1-9"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>– – – (Na průčelí cygnus olor)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_017.xhtml#toc_marker-1-10"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>– – – (Odpočívají bílé myšky)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_018.xhtml#toc_marker-1-11"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>– – – (Svět se připravuje k střetu)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_019.xhtml#toc_marker-1-12"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>– – – (V neštěstí se vždycky hbitě)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_020.xhtml#toc_marker-1-13"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>– – – (Vidím že píšu o pekle)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_021.xhtml#toc_marker-1-14"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>– – – (Jenom to Pane vědět chci)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_022.xhtml#toc_marker-1-15"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>– – – (Krásná je hora Mt. St Michel)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_023.xhtml#toc_marker-1-16"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>– – – (I se starým dobrým Lombrosem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_024.xhtml#toc_marker-1-17"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>– – – (Špatně se skládá elegie)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_025.xhtml#toc_marker-1-18"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>– – – (Tytam jsou s milenkami strasti)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_026.xhtml#toc_marker-1-19"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>– – – (Odpusť nám Bože naše viny)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_027.xhtml#toc_marker-1-20"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>– – – (Oknem se blíží vůně tújí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_028.xhtml#toc_marker-1-21"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>– – – (Sv. Hugo Grenobelský)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_029.xhtml#toc_marker-1-22"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>– – – (Troufám si jenom ostýchavě)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_030.xhtml#toc_marker-1-23"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>– – – (Ze zrcadla se loupe rtuť)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_031.xhtml#toc_marker-1-24"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>– – – (Dneska poprvé pokušení)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_032.xhtml#toc_marker-1-25"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>– – – (Viď tak se uzel za uzlem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_033.xhtml#toc_marker-1-26"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>– – – (Rozumu snad jsi mě Bože už dočista zbavil)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_034.xhtml#toc_marker-1-27"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>– – – (Píseň si zpívám má jeden takt)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_035.xhtml#toc_marker-1-28"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>– – – (Pomoz mi svatý Antoníne)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_036.xhtml#toc_marker-1-29"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>– – – (Že jsem si vzpomněl než jsem to vzdal)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_037.xhtml#toc_marker-1-30"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>– – – (Jen s nimi mluvím a mám zas)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_038.xhtml#toc_marker-1-31"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>– – – (Pořád Pane Bože věřím)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_039.xhtml#toc_marker-1-32"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>– – – (Napsal jste Bondy slavné ódy)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_040.xhtml#toc_marker-1-33"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>– – – (Jednou za čas se snese)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_041.xhtml#toc_marker-1-34"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>– – – (I ve vězení mám nápady jak snob)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_042.xhtml#toc_marker-1-35"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>– – – (Tak jako v houslích)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_043.xhtml#toc_marker-1-36"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>– – – (Když vypustí nás z našich cel)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_044.xhtml#toc_marker-1-37"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>– – – (Na dvoře v Kartouzích)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_045.xhtml#toc_marker-1-38"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>– – – (Neplavil jsem se po mořích)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_046.xhtml#toc_marker-1-39"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>– – – (Kartuziáni se slibem mlčení už odebrali se na věčnost)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_047.xhtml#toc_marker-1-40"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>– – – (Jako by rdousila mě krajta)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_048.xhtml#toc_marker-1-41"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>– – – (Týdny měsíce léta jdou)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_049.xhtml#toc_marker-1-42"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>– – – (Málo je líbezný)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_050.xhtml#toc_marker-1-43"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>– – – (Komenský po požáru v Lešně)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_051.xhtml#toc_marker-1-44"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>– – – (Nad Valdicemi krouží rorýs)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_052.xhtml#toc_marker-1-45"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>– – – (Každý nese co unese)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_053.xhtml#toc_marker-1-46"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>– – – (Ach nejsem nejsem Oscar Wilde)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_054.xhtml#toc_marker-1-47"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>– – – (Nevím zda svítá nebo tmí se)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_055.xhtml#toc_marker-1-48"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>– – – (S nebe se dívá T. G. Masaryk)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_056.xhtml#toc_marker-1-49"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>– – – (Řekl jsi: mihi vindictam)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_057.xhtml#toc_marker-1-50"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>– – – (Ani heřmánek ani rum)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_058.xhtml#toc_marker-1-51"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>– – – (Genius loci zřejmě mi)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_059.xhtml#toc_marker-1-52"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>– – – (Ledové svírají srdce kry)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_060.xhtml#toc_marker-1-53"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>– – – (Skrz mříže slyším přes tu dálku)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_061.xhtml#toc_marker-1-54"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>– – – (V naší rodině ponuře)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_062.xhtml#toc_marker-1-55"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>– – – (Po letech jenom noční můra)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_063.xhtml#toc_marker-1-56"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>– – – (Mí spolužáci)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_064.xhtml#toc_marker-1-57"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>– – – (Apokalyptické saranče)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_065.xhtml#toc_marker-1-58"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>– – – (Tuší snad jenom Amnesty)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_066.xhtml#toc_marker-1-59"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>– – – (Chystají pro mne vyhnanství)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_067.xhtml#toc_marker-1-60"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>– – – (Cibule kostelů zlátnou a zrají)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_068.xhtml#toc_marker-1-61"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>– – – (Trpělivě Bůh na Kartouzy)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_069.xhtml#toc_marker-1-62"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>– – – (Píše mi žena v dopise:)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_070.xhtml#toc_marker-1-63"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>– – – (Jen to nutkání k oběšení)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_071.xhtml#toc_marker-1-64"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>– – – (Čtu Julianin dopis v tichu)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_072.xhtml#toc_marker-1-65"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>– – – (Pod hlohem odváděli mne)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_073.xhtml#toc_marker-1-66"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>– – – (Začal jsem s André Bretonem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_074.xhtml#toc_marker-1-67"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>– – – (Pokaždé když jsem v klauzuře)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_075.xhtml#toc_marker-1-68"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>– – – (Po třetí vlaštovkám zaroste ozobí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_076.xhtml#toc_marker-1-69"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>– – – (Tři dny před svátkem sv. Anny)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_077.xhtml#toc_marker-1-70"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>– – – (Sub tumultuoso coelo)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_078.xhtml#toc_marker-1-71"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>– – – (Den po Panny Marie Nanebevzetí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_079.xhtml#toc_marker-1-72"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>– – – (Nějak už se mi kreatury)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_080.xhtml#toc_marker-1-73"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>– – – (Jestli mě ještě po páté)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_081.xhtml#toc_marker-1-74"/>
+      </navPoint>
+      <navPoint id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>– – – (Už vědět nechtějí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_082.xhtml#toc_marker-1-75"/>
+      </navPoint>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>– – – (Markétka po biřmování)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_083.xhtml#toc_marker-1-76"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>– – – (Chuť nemám ani inspiraci)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_084.xhtml#toc_marker-1-77"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>– – – (Bílé pivoňky začly kvést)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_085.xhtml#toc_marker-1-78"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>– – – (Zřejmě je Bože Tvojí vůlí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_086.xhtml#toc_marker-1-79"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>– – – (K narozeninám dal mi nakladatel)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_087.xhtml#toc_marker-1-80"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>– – – (Kamení sv. Štěpánovi)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_088.xhtml#toc_marker-1-81"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>– – – (Každý básník tvoří jak umí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_089.xhtml#toc_marker-1-82"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>II. Dům s modrým beránkem</text>
+      </navLabel>
+      <content src="Text/magorovy_labuti_pisne_091.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>– – – (Smutná je holka když chlapa si vezme)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_092.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>– – – (Vráťa vyhlíží ve Vídni)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_093.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>– – – (Sicilští plavci zpívali)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_094.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>– – – (Nebe polité inkoustem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_095.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>– – – (Zlíbilo se Bohu)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_096.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>– – – (U Telče v kupce sena)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_097.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>– – – (V říjnu pojedeš do Vydří)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_098.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>– – – (V té krátké chvíli usínání)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_099.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>– – – (Poprosím vroucně Marii Pannu)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_100.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>– – – (Ve vykropeném domečku)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_101.xhtml#toc_marker-2-10"/>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>– – – (Když uléhají beránky)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_102.xhtml#toc_marker-2-11"/>
+      </navPoint>
+      <navPoint id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>– – – (Proč já nejsem pyromanem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_103.xhtml#toc_marker-2-12"/>
+      </navPoint>
+      <navPoint id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>– – – (Okolo Panny Marie)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_104.xhtml#toc_marker-2-13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>III. MAGOR D’OR</text>
+      </navLabel>
+      <content src="Text/magorovy_labuti_pisne_105.xhtml#toc_marker-3"/>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>– – – (Obklopeni nenávistí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_107.xhtml#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>– – – (Vaše duše se k Bohu vrací)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_108.xhtml#toc_marker-3-2"/>
+      </navPoint>
+      <navPoint id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>– – – (O milost Pane Bože prosím)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_109.xhtml#toc_marker-3-3"/>
+      </navPoint>
+      <navPoint id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>– – – (O nebe prosím Ježíše)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_110.xhtml#toc_marker-3-4"/>
+      </navPoint>
+      <navPoint id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>– – – (Syrové maso ukaž v ráně)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_111.xhtml#toc_marker-3-5"/>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>– – – (Panně Marii s děťátkem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_112.xhtml#toc_marker-3-6"/>
+      </navPoint>
+      <navPoint id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>– – – (Tak nevím když se modlit neumím)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_113.xhtml#toc_marker-3-7"/>
+      </navPoint>
+      <navPoint id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>– – – (Anděl smrti si prohlíží)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_114.xhtml#toc_marker-3-8"/>
+      </navPoint>
+      <navPoint id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>– – – (Svatý Prokope Ty který jsi)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_115.xhtml#toc_marker-3-9"/>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>– – – (Modlím se k zemským patronům)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_116.xhtml#toc_marker-3-10"/>
+      </navPoint>
+      <navPoint id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>– – – (Sv. Martine, přímluvče mocný)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_117.xhtml#toc_marker-3-11"/>
+      </navPoint>
+      <navPoint id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>– – – (Jilmy porostlé břečťanem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_118.xhtml#toc_marker-3-12"/>
+      </navPoint>
+      <navPoint id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>– – – (Hora svlačcem omotaná)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_119.xhtml#toc_marker-3-13"/>
+      </navPoint>
+      <navPoint id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>– – – (Na nebi světlo nevídané)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_120.xhtml#toc_marker-3-14"/>
+      </navPoint>
+      <navPoint id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>– – – (Rorate coeli desuper)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_121.xhtml#toc_marker-3-15"/>
+      </navPoint>
+      <navPoint id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>– – – (Kdybychom uměli být sami)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_122.xhtml#toc_marker-3-16"/>
+      </navPoint>
+      <navPoint id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>– – – (V úzkostech volal jsem Beránka)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_123.xhtml#toc_marker-3-17"/>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>– – – (Bělejší nad Beránka)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_124.xhtml#toc_marker-3-18"/>
+      </navPoint>
+      <navPoint id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>– – – (A nejtěžšího mezi hříchy)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_125.xhtml#toc_marker-3-19"/>
+      </navPoint>
+      <navPoint id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>– – – (Na chvíli vítr co vane kam chce ztich)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_126.xhtml#toc_marker-3-20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>IV. MY LOVERS ARE OVER THE OCEANS</text>
+      </navLabel>
+      <content src="Text/magorovy_labuti_pisne_127.xhtml#toc_marker-4"/>
+      <navPoint id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>– – – (Těžko píšu bez Brikciuse)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_129.xhtml#toc_marker-4-1"/>
+      </navPoint>
+      <navPoint id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>– – – (Zatímco Liška s Brikciusem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_130.xhtml#toc_marker-4-2"/>
+      </navPoint>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>– – – (Osud byl ke mně asi drsnej)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_131.xhtml#toc_marker-4-3"/>
+      </navPoint>
+      <navPoint id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>– – – (Tak po přátelích v cizině)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_132.xhtml#toc_marker-4-4"/>
+      </navPoint>
+      <navPoint id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>– – – (Dodnes tvým slovům Dušane věřím)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_133.xhtml#toc_marker-4-5"/>
+      </navPoint>
+      <navPoint id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>– – – (Jestli nebe nezesvětlá)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_134.xhtml#toc_marker-4-6"/>
+      </navPoint>
+      <navPoint id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>– – – (Ať mám či nemám na kahánku)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_135.xhtml#toc_marker-4-7"/>
+      </navPoint>
+      <navPoint id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>– – – (Vráťa teď okukuje Prátr)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_136.xhtml#toc_marker-4-8"/>
+      </navPoint>
+      <navPoint id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>– – – (Když básníkům je prabídně)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_137.xhtml#toc_marker-4-9"/>
+      </navPoint>
+      <navPoint id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>– – – (Za velkou louží)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_138.xhtml#toc_marker-4-10"/>
+      </navPoint>
+      <navPoint id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>– – – (Pavel Wilson je za vodou)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_139.xhtml#toc_marker-4-11"/>
+      </navPoint>
+      <navPoint id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>– – – (Zetlelou přikryti korouhví)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_140.xhtml#toc_marker-4-12"/>
+      </navPoint>
+      <navPoint id="navPoint-132" playOrder="132">
+        <navLabel>
+          <text>– – – (Na hřbitov v Hrochově Týnci)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_141.xhtml#toc_marker-4-13"/>
+      </navPoint>
+      <navPoint id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>– – – (Když dorazil do Montrealu)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_142.xhtml#toc_marker-4-14"/>
+      </navPoint>
+      <navPoint id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>– – – (Nenapadá mě žádný rým)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_143.xhtml#toc_marker-4-15"/>
+      </navPoint>
+      <navPoint id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>– – – (V doslovu čtu ke Stevensonovi)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_144.xhtml#toc_marker-4-16"/>
+      </navPoint>
+      <navPoint id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>– – – (I zavál Janu zoufalou)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_145.xhtml#toc_marker-4-17"/>
+      </navPoint>
+      <navPoint id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>– – – (Hovězí porážky nářek zní z jatek)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_146.xhtml#toc_marker-4-18"/>
+      </navPoint>
+      <navPoint id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>– – – (Moře Ti ostrov odplavuje)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_147.xhtml#toc_marker-4-19"/>
+      </navPoint>
+      <navPoint id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>– – – (Ve vzpomínkách se Praha mi)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_148.xhtml#toc_marker-4-20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-140" playOrder="140">
+      <navLabel>
+        <text>V. Intermezzo</text>
+      </navLabel>
+      <content src="Text/magorovy_labuti_pisne_149.xhtml#toc_marker-5"/>
+      <navPoint id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>– – – (Na chvíli jednorožec zdržel se u studánky)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_151.xhtml#toc_marker-5-1"/>
+      </navPoint>
+      <navPoint id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>– – – (Ejhle po žebříku Jakubově I. II. III.)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_152.xhtml#toc_marker-5-2"/>
+      </navPoint>
+      <navPoint id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>– – – (Olej nalitý na zátoku)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_153.xhtml#toc_marker-5-3"/>
+      </navPoint>
+      <navPoint id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>– – – (Na křídlech andělé ji zvedli)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_154.xhtml#toc_marker-5-4"/>
+      </navPoint>
+      <navPoint id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>– – – (V mrazu se chvěje ztuhlý lůj)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_155.xhtml#toc_marker-5-5"/>
+      </navPoint>
+      <navPoint id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>– – – (Tak vetknuli jí do drdolu)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_156.xhtml#toc_marker-5-6"/>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>– – – (Na poli lilií I. II. III. IV. V.)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_157.xhtml"/>
+      </navPoint>
+      <navPoint id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>– – – (Svěcenou rosou postříkána)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_158.xhtml#toc_marker-5-7"/>
+      </navPoint>
+      <navPoint id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>– – – (Za údolími lesy)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_159.xhtml#toc_marker-5-8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-150" playOrder="150">
+      <navLabel>
+        <text>VI. Hommage -à Boris Savinkov</text>
+      </navLabel>
+      <content src="Text/magorovy_labuti_pisne_160.xhtml#toc_marker-6"/>
+      <navPoint id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>– – – (Po ránu mezi ďábly vstávám)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_161.xhtml#toc_marker-6-1"/>
+      </navPoint>
+      <navPoint id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>– – – (Poprosím pátera Bonaventuru)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_162.xhtml#toc_marker-6-2"/>
+      </navPoint>
+      <navPoint id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>– – – (Ješitnost překvapivá)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_163.xhtml#toc_marker-6-3"/>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>– – – (Za plynem jako za ropou)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_164.xhtml#toc_marker-6-4"/>
+      </navPoint>
+      <navPoint id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>– – – (Jako by moje rodná zem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_165.xhtml#toc_marker-6-5"/>
+      </navPoint>
+      <navPoint id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>– – – (Doktor Dubský si po cestě)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_166.xhtml#toc_marker-6-6"/>
+      </navPoint>
+      <navPoint id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>– – – (Daníček se v maringotce)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_167.xhtml#toc_marker-6-7"/>
+      </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>– – – (Na nebe vystoupil Salvador Dalí)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_168.xhtml#toc_marker-6-8"/>
+      </navPoint>
+      <navPoint id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>– – – (Jdou volit cestou z kostela)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_169.xhtml#toc_marker-6-9"/>
+      </navPoint>
+      <navPoint id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>– – – (V bělostné říze)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_170.xhtml#toc_marker-6-10"/>
+      </navPoint>
+      <navPoint id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>– – – (Z úst věřících se pára sráží)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_171.xhtml#toc_marker-6-11"/>
+      </navPoint>
+      <navPoint id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>– – – (Krásné jsou Plastiků Pašije)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_172.xhtml#toc_marker-6-12"/>
+      </navPoint>
+      <navPoint id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>– – – (Ptali se svaté Cecilie)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_173.xhtml#toc_marker-6-13"/>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>– – – (Vznesl se zástup andělů)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_174.xhtml#toc_marker-6-14"/>
+      </navPoint>
+      <navPoint id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>– – – (Saranče z Apokalypsy)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_175.xhtml#toc_marker-6-15"/>
+      </navPoint>
+      <navPoint id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>– – – (Dnes stejně jako před lety)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_176.xhtml#toc_marker-6-16"/>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>– – – (Kdysi jsi báseň psal)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_177.xhtml#toc_marker-6-17"/>
+      </navPoint>
+      <navPoint id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>– – – (Zařvala triumfálním rykem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_178.xhtml#toc_marker-6-18"/>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>– – – (Podivně odešel básník Holan)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_179.xhtml#toc_marker-6-19"/>
+      </navPoint>
+      <navPoint id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>– – – (Ví v Pelhřimově kdejaký buran)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_180.xhtml#toc_marker-6-20"/>
+      </navPoint>
+      <navPoint id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>– – – (Napřeskáčku melu pantem)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_181.xhtml#toc_marker-6-21"/>
+      </navPoint>
+      <navPoint id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>– – – (Pročpak mu říkáš vole)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_182.xhtml#toc_marker-6-22"/>
+      </navPoint>
+      <navPoint id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>– – – (Na plácek k svatému Mikuláši)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_183.xhtml#toc_marker-6-23"/>
+      </navPoint>
+      <navPoint id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>– – – (Panenka Maria snad už je pomstěna)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_184.xhtml#toc_marker-6-24"/>
+      </navPoint>
+      <navPoint id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>– – – (Teď Pán Bůh hubí jilmy)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_185.xhtml#toc_marker-6-25"/>
+      </navPoint>
+      <navPoint id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>– – – (Bílé květy střemchy už nepohostí chrousty)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_186.xhtml#toc_marker-6-26"/>
+      </navPoint>
+      <navPoint id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>– – – (Líbánky vzaly konec zlý)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_187.xhtml#toc_marker-6-27"/>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>– – – (Řek mojí ženě doktor Štěpánek)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_188.xhtml#toc_marker-6-28"/>
+      </navPoint>
+      <navPoint id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>– – – (Profesor Černý studoval v Dijonu)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_189.xhtml#toc_marker-6-29"/>
+      </navPoint>
+      <navPoint id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>– – – (Inženýr Jirous)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_190.xhtml#toc_marker-6-30"/>
+      </navPoint>
+      <navPoint id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>– – – (Vzpomínka zastřená přes času dálku: I. II.)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_191.xhtml#toc_marker-6-31"/>
+      </navPoint>
+      <navPoint id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>– – – (Důstojníku)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_192.xhtml#toc_marker-6-32"/>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>– – – (Už Petra Brodského zbavili souhlasu)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_193.xhtml#toc_marker-6-33"/>
+      </navPoint>
+      <navPoint id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>– – – (Už v dětství jsem byl trochu jiný)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_194.xhtml#toc_marker-6-34"/>
+      </navPoint>
+      <navPoint id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>– – – (Funus byl pana Reynka)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_195.xhtml#toc_marker-6-35"/>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>– – – (Přinesu lilii)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_196.xhtml#toc_marker-6-36"/>
+      </navPoint>
+      <navPoint id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>– – – (Nad dvěma slunci)</text>
+        </navLabel>
+        <content src="Text/magorovy_labuti_pisne_197.xhtml#toc_marker-6-37"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-188" playOrder="188">
+      <navLabel>
+        <text>Komentáře k jednotlivým textům</text>
+      </navLabel>
+      <content src="Text/magorovy_labuti_pisne_198.xhtml#toc_marker-6-39"/>
+    </navPoint>
+    <navPoint id="navPoint-189" playOrder="189">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/magorovy_labuti_pisne_199.xhtml#toc_marker-6-40"/>
+    </navPoint>
+  </navMap>
+</ncx>
