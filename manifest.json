@@ -1,0 +1,4008 @@
+{
+  "author": "Ivan Martin Jirous",
+  "contenttype": "prose",
+  "identifier": "jirous-magorovy-labuti-pisne-1118350",
+  "languagecode": "cs",
+  "modified": "2022-03-15T15:46:51.114Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Magorovy labutí písně",
+  "revision": "1118350",
+  "generatedAt": {
+    "date": "Tue Mar 15 2022 15:58:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647359937036
+  },
+  "documents": [
+    {
+      "title": "Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "magorovy_labuti_pisne_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "magorovy_labuti_pisne_001.html",
+      "next": "magorovy_labuti_pisne_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorovy Labutí písně • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_003.html",
+      "words": 3,
+      "chars": 21,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "magorovy_labuti_pisne_002.html",
+      "next": "magorovy_labuti_pisne_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Magorovy Labutí písně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_004.html",
+      "words": 95,
+      "chars": 612,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "magorovy_labuti_pisne_003.html",
+      "next": "magorovy_labuti_pisne_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 4,
+      "prev": "magorovy_labuti_pisne_004.html",
+      "next": "magorovy_labuti_pisne_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_006.html",
+      "words": 21,
+      "chars": 123,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 5,
+      "prev": "magorovy_labuti_pisne_005.html",
+      "next": "magorovy_labuti_pisne_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I.Labuť sv. Huga • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_007.html",
+      "words": 3,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 6,
+      "prev": "magorovy_labuti_pisne_006.html",
+      "next": "magorovy_labuti_pisne_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I.Labuť sv. Huga",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_008.html",
+      "words": 44,
+      "chars": 222,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 7,
+      "prev": "magorovy_labuti_pisne_007.html",
+      "next": "magorovy_labuti_pisne_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_009.html",
+      "words": 37,
+      "chars": 172,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 8,
+      "prev": "magorovy_labuti_pisne_008.html",
+      "next": "magorovy_labuti_pisne_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_010.html",
+      "words": 84,
+      "chars": 460,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 9,
+      "prev": "magorovy_labuti_pisne_009.html",
+      "next": "magorovy_labuti_pisne_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_011.html",
+      "words": 19,
+      "chars": 99,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 10,
+      "prev": "magorovy_labuti_pisne_010.html",
+      "next": "magorovy_labuti_pisne_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_012.html",
+      "words": 64,
+      "chars": 305,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 11,
+      "prev": "magorovy_labuti_pisne_011.html",
+      "next": "magorovy_labuti_pisne_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_013.html",
+      "words": 42,
+      "chars": 208,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 12,
+      "prev": "magorovy_labuti_pisne_012.html",
+      "next": "magorovy_labuti_pisne_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_014.html",
+      "words": 13,
+      "chars": 46,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 13,
+      "prev": "magorovy_labuti_pisne_013.html",
+      "next": "magorovy_labuti_pisne_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_015.html",
+      "words": 31,
+      "chars": 172,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 14,
+      "prev": "magorovy_labuti_pisne_014.html",
+      "next": "magorovy_labuti_pisne_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_016.html",
+      "words": 13,
+      "chars": 59,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 15,
+      "prev": "magorovy_labuti_pisne_015.html",
+      "next": "magorovy_labuti_pisne_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_017.html",
+      "words": 29,
+      "chars": 140,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 16,
+      "prev": "magorovy_labuti_pisne_016.html",
+      "next": "magorovy_labuti_pisne_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_018.html",
+      "words": 44,
+      "chars": 232,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 17,
+      "prev": "magorovy_labuti_pisne_017.html",
+      "next": "magorovy_labuti_pisne_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_019.html",
+      "words": 26,
+      "chars": 129,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 18,
+      "prev": "magorovy_labuti_pisne_018.html",
+      "next": "magorovy_labuti_pisne_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_020.html",
+      "words": 176,
+      "chars": 899,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 19,
+      "prev": "magorovy_labuti_pisne_019.html",
+      "next": "magorovy_labuti_pisne_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_021.html",
+      "words": 22,
+      "chars": 108,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 20,
+      "prev": "magorovy_labuti_pisne_020.html",
+      "next": "magorovy_labuti_pisne_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_022.html",
+      "words": 14,
+      "chars": 57,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 21,
+      "prev": "magorovy_labuti_pisne_021.html",
+      "next": "magorovy_labuti_pisne_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_023.html",
+      "words": 25,
+      "chars": 113,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 22,
+      "prev": "magorovy_labuti_pisne_022.html",
+      "next": "magorovy_labuti_pisne_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_024.html",
+      "words": 22,
+      "chars": 104,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 23,
+      "prev": "magorovy_labuti_pisne_023.html",
+      "next": "magorovy_labuti_pisne_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_025.html",
+      "words": 39,
+      "chars": 208,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 24,
+      "prev": "magorovy_labuti_pisne_024.html",
+      "next": "magorovy_labuti_pisne_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_026.html",
+      "words": 12,
+      "chars": 59,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 25,
+      "prev": "magorovy_labuti_pisne_025.html",
+      "next": "magorovy_labuti_pisne_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_027.html",
+      "words": 29,
+      "chars": 147,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 26,
+      "prev": "magorovy_labuti_pisne_026.html",
+      "next": "magorovy_labuti_pisne_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_028.html",
+      "words": 52,
+      "chars": 289,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 27,
+      "prev": "magorovy_labuti_pisne_027.html",
+      "next": "magorovy_labuti_pisne_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_029.html",
+      "words": 17,
+      "chars": 87,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 28,
+      "prev": "magorovy_labuti_pisne_028.html",
+      "next": "magorovy_labuti_pisne_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_030.html",
+      "words": 11,
+      "chars": 55,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 29,
+      "prev": "magorovy_labuti_pisne_029.html",
+      "next": "magorovy_labuti_pisne_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_031.html",
+      "words": 39,
+      "chars": 192,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 30,
+      "prev": "magorovy_labuti_pisne_030.html",
+      "next": "magorovy_labuti_pisne_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_032.html",
+      "words": 48,
+      "chars": 241,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 31,
+      "prev": "magorovy_labuti_pisne_031.html",
+      "next": "magorovy_labuti_pisne_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_033.html",
+      "words": 47,
+      "chars": 239,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 32,
+      "prev": "magorovy_labuti_pisne_032.html",
+      "next": "magorovy_labuti_pisne_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_034.html",
+      "words": 59,
+      "chars": 294,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 33,
+      "prev": "magorovy_labuti_pisne_033.html",
+      "next": "magorovy_labuti_pisne_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_035.html",
+      "words": 18,
+      "chars": 79,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 34,
+      "prev": "magorovy_labuti_pisne_034.html",
+      "next": "magorovy_labuti_pisne_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_036.html",
+      "words": 23,
+      "chars": 113,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 35,
+      "prev": "magorovy_labuti_pisne_035.html",
+      "next": "magorovy_labuti_pisne_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_037.html",
+      "words": 40,
+      "chars": 185,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 36,
+      "prev": "magorovy_labuti_pisne_036.html",
+      "next": "magorovy_labuti_pisne_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_038.html",
+      "words": 17,
+      "chars": 69,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 37,
+      "prev": "magorovy_labuti_pisne_037.html",
+      "next": "magorovy_labuti_pisne_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_039.html",
+      "words": 30,
+      "chars": 144,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 38,
+      "prev": "magorovy_labuti_pisne_038.html",
+      "next": "magorovy_labuti_pisne_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_040.html",
+      "words": 30,
+      "chars": 150,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 39,
+      "prev": "magorovy_labuti_pisne_039.html",
+      "next": "magorovy_labuti_pisne_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_041.html",
+      "words": 24,
+      "chars": 121,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 40,
+      "prev": "magorovy_labuti_pisne_040.html",
+      "next": "magorovy_labuti_pisne_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_042.html",
+      "words": 15,
+      "chars": 64,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 41,
+      "prev": "magorovy_labuti_pisne_041.html",
+      "next": "magorovy_labuti_pisne_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_043.html",
+      "words": 52,
+      "chars": 248,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 42,
+      "prev": "magorovy_labuti_pisne_042.html",
+      "next": "magorovy_labuti_pisne_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_044.html",
+      "words": 35,
+      "chars": 168,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 43,
+      "prev": "magorovy_labuti_pisne_043.html",
+      "next": "magorovy_labuti_pisne_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_045.html",
+      "words": 27,
+      "chars": 129,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 44,
+      "prev": "magorovy_labuti_pisne_044.html",
+      "next": "magorovy_labuti_pisne_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_046.html",
+      "words": 35,
+      "chars": 168,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 45,
+      "prev": "magorovy_labuti_pisne_045.html",
+      "next": "magorovy_labuti_pisne_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_047.html",
+      "words": 21,
+      "chars": 110,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 46,
+      "prev": "magorovy_labuti_pisne_046.html",
+      "next": "magorovy_labuti_pisne_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_048.html",
+      "words": 30,
+      "chars": 150,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 47,
+      "prev": "magorovy_labuti_pisne_047.html",
+      "next": "magorovy_labuti_pisne_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_049.html",
+      "words": 74,
+      "chars": 405,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 48,
+      "prev": "magorovy_labuti_pisne_048.html",
+      "next": "magorovy_labuti_pisne_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_050.html",
+      "words": 17,
+      "chars": 73,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 49,
+      "prev": "magorovy_labuti_pisne_049.html",
+      "next": "magorovy_labuti_pisne_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_051.html",
+      "words": 24,
+      "chars": 108,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 50,
+      "prev": "magorovy_labuti_pisne_050.html",
+      "next": "magorovy_labuti_pisne_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_052.html",
+      "words": 40,
+      "chars": 209,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 51,
+      "prev": "magorovy_labuti_pisne_051.html",
+      "next": "magorovy_labuti_pisne_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_053.html",
+      "words": 24,
+      "chars": 100,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 52,
+      "prev": "magorovy_labuti_pisne_052.html",
+      "next": "magorovy_labuti_pisne_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_054.html",
+      "words": 23,
+      "chars": 108,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 53,
+      "prev": "magorovy_labuti_pisne_053.html",
+      "next": "magorovy_labuti_pisne_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_055.html",
+      "words": 24,
+      "chars": 108,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 54,
+      "prev": "magorovy_labuti_pisne_054.html",
+      "next": "magorovy_labuti_pisne_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_056.html",
+      "words": 26,
+      "chars": 119,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 55,
+      "prev": "magorovy_labuti_pisne_055.html",
+      "next": "magorovy_labuti_pisne_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_057.html",
+      "words": 12,
+      "chars": 54,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 56,
+      "prev": "magorovy_labuti_pisne_056.html",
+      "next": "magorovy_labuti_pisne_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_058.html",
+      "words": 66,
+      "chars": 360,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 57,
+      "prev": "magorovy_labuti_pisne_057.html",
+      "next": "magorovy_labuti_pisne_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_059.html",
+      "words": 23,
+      "chars": 98,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 58,
+      "prev": "magorovy_labuti_pisne_058.html",
+      "next": "magorovy_labuti_pisne_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_060.html",
+      "words": 12,
+      "chars": 52,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 59,
+      "prev": "magorovy_labuti_pisne_059.html",
+      "next": "magorovy_labuti_pisne_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_061.html",
+      "words": 21,
+      "chars": 107,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 60,
+      "prev": "magorovy_labuti_pisne_060.html",
+      "next": "magorovy_labuti_pisne_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_062.html",
+      "words": 42,
+      "chars": 204,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 61,
+      "prev": "magorovy_labuti_pisne_061.html",
+      "next": "magorovy_labuti_pisne_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_063.html",
+      "words": 33,
+      "chars": 186,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 62,
+      "prev": "magorovy_labuti_pisne_062.html",
+      "next": "magorovy_labuti_pisne_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_064.html",
+      "words": 34,
+      "chars": 180,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 63,
+      "prev": "magorovy_labuti_pisne_063.html",
+      "next": "magorovy_labuti_pisne_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_065.html",
+      "words": 25,
+      "chars": 127,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 64,
+      "prev": "magorovy_labuti_pisne_064.html",
+      "next": "magorovy_labuti_pisne_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_066.html",
+      "words": 12,
+      "chars": 54,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 65,
+      "prev": "magorovy_labuti_pisne_065.html",
+      "next": "magorovy_labuti_pisne_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_067.html",
+      "words": 31,
+      "chars": 158,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 66,
+      "prev": "magorovy_labuti_pisne_066.html",
+      "next": "magorovy_labuti_pisne_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_068.html",
+      "words": 34,
+      "chars": 182,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 67,
+      "prev": "magorovy_labuti_pisne_067.html",
+      "next": "magorovy_labuti_pisne_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_069.html",
+      "words": 25,
+      "chars": 114,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 68,
+      "prev": "magorovy_labuti_pisne_068.html",
+      "next": "magorovy_labuti_pisne_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_070.html",
+      "words": 31,
+      "chars": 150,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 69,
+      "prev": "magorovy_labuti_pisne_069.html",
+      "next": "magorovy_labuti_pisne_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_071.html",
+      "words": 12,
+      "chars": 52,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 70,
+      "prev": "magorovy_labuti_pisne_070.html",
+      "next": "magorovy_labuti_pisne_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_072.html",
+      "words": 32,
+      "chars": 158,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 71,
+      "prev": "magorovy_labuti_pisne_071.html",
+      "next": "magorovy_labuti_pisne_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_073.html",
+      "words": 23,
+      "chars": 106,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 72,
+      "prev": "magorovy_labuti_pisne_072.html",
+      "next": "magorovy_labuti_pisne_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_074.html",
+      "words": 37,
+      "chars": 194,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 73,
+      "prev": "magorovy_labuti_pisne_073.html",
+      "next": "magorovy_labuti_pisne_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_075.html",
+      "words": 24,
+      "chars": 121,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 74,
+      "prev": "magorovy_labuti_pisne_074.html",
+      "next": "magorovy_labuti_pisne_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_076.html",
+      "words": 14,
+      "chars": 74,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 75,
+      "prev": "magorovy_labuti_pisne_075.html",
+      "next": "magorovy_labuti_pisne_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_077.html",
+      "words": 21,
+      "chars": 112,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 76,
+      "prev": "magorovy_labuti_pisne_076.html",
+      "next": "magorovy_labuti_pisne_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_078.html",
+      "words": 27,
+      "chars": 162,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 77,
+      "prev": "magorovy_labuti_pisne_077.html",
+      "next": "magorovy_labuti_pisne_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_079.html",
+      "words": 39,
+      "chars": 181,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 78,
+      "prev": "magorovy_labuti_pisne_078.html",
+      "next": "magorovy_labuti_pisne_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_080.html",
+      "words": 23,
+      "chars": 106,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 79,
+      "prev": "magorovy_labuti_pisne_079.html",
+      "next": "magorovy_labuti_pisne_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_081.html",
+      "words": 20,
+      "chars": 99,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 80,
+      "prev": "magorovy_labuti_pisne_080.html",
+      "next": "magorovy_labuti_pisne_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_082.html",
+      "words": 42,
+      "chars": 209,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 81,
+      "prev": "magorovy_labuti_pisne_081.html",
+      "next": "magorovy_labuti_pisne_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_083.html",
+      "words": 21,
+      "chars": 101,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 82,
+      "prev": "magorovy_labuti_pisne_082.html",
+      "next": "magorovy_labuti_pisne_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_084.html",
+      "words": 14,
+      "chars": 60,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 83,
+      "prev": "magorovy_labuti_pisne_083.html",
+      "next": "magorovy_labuti_pisne_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_085.html",
+      "words": 60,
+      "chars": 318,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 84,
+      "prev": "magorovy_labuti_pisne_084.html",
+      "next": "magorovy_labuti_pisne_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_086.html",
+      "words": 12,
+      "chars": 54,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 85,
+      "prev": "magorovy_labuti_pisne_085.html",
+      "next": "magorovy_labuti_pisne_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_087.html",
+      "words": 29,
+      "chars": 154,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 86,
+      "prev": "magorovy_labuti_pisne_086.html",
+      "next": "magorovy_labuti_pisne_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_088.html",
+      "words": 35,
+      "chars": 171,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 87,
+      "prev": "magorovy_labuti_pisne_087.html",
+      "next": "magorovy_labuti_pisne_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_089.html",
+      "words": 29,
+      "chars": 139,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 88,
+      "prev": "magorovy_labuti_pisne_088.html",
+      "next": "magorovy_labuti_pisne_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II.Důms modrým beránkem • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_091.html",
+      "words": 3,
+      "chars": 23,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 89,
+      "prev": "magorovy_labuti_pisne_089.html",
+      "next": "magorovy_labuti_pisne_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II.Důms modrým beránkem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_092.html",
+      "words": 30,
+      "chars": 146,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 90,
+      "prev": "magorovy_labuti_pisne_091.html",
+      "next": "magorovy_labuti_pisne_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_093.html",
+      "words": 119,
+      "chars": 576,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 91,
+      "prev": "magorovy_labuti_pisne_092.html",
+      "next": "magorovy_labuti_pisne_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_094.html",
+      "words": 80,
+      "chars": 438,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 92,
+      "prev": "magorovy_labuti_pisne_093.html",
+      "next": "magorovy_labuti_pisne_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_095.html",
+      "words": 66,
+      "chars": 341,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 93,
+      "prev": "magorovy_labuti_pisne_094.html",
+      "next": "magorovy_labuti_pisne_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_096.html",
+      "words": 26,
+      "chars": 116,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 94,
+      "prev": "magorovy_labuti_pisne_095.html",
+      "next": "magorovy_labuti_pisne_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_097.html",
+      "words": 21,
+      "chars": 89,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 95,
+      "prev": "magorovy_labuti_pisne_096.html",
+      "next": "magorovy_labuti_pisne_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_098.html",
+      "words": 76,
+      "chars": 440,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 96,
+      "prev": "magorovy_labuti_pisne_097.html",
+      "next": "magorovy_labuti_pisne_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_099.html",
+      "words": 55,
+      "chars": 294,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 97,
+      "prev": "magorovy_labuti_pisne_098.html",
+      "next": "magorovy_labuti_pisne_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_100.html",
+      "words": 19,
+      "chars": 108,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 98,
+      "prev": "magorovy_labuti_pisne_099.html",
+      "next": "magorovy_labuti_pisne_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_101.html",
+      "words": 85,
+      "chars": 474,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 99,
+      "prev": "magorovy_labuti_pisne_100.html",
+      "next": "magorovy_labuti_pisne_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_102.html",
+      "words": 63,
+      "chars": 333,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 100,
+      "prev": "magorovy_labuti_pisne_101.html",
+      "next": "magorovy_labuti_pisne_103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_103.html",
+      "words": 22,
+      "chars": 102,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 101,
+      "prev": "magorovy_labuti_pisne_102.html",
+      "next": "magorovy_labuti_pisne_104.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_104.html",
+      "words": 83,
+      "chars": 423,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 102,
+      "prev": "magorovy_labuti_pisne_103.html",
+      "next": "magorovy_labuti_pisne_105.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III. MAGOR D’OR • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_105.html",
+      "words": 3,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 103,
+      "prev": "magorovy_labuti_pisne_104.html",
+      "next": "magorovy_labuti_pisne_106.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III. MAGOR D’OR",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_106.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 104,
+      "prev": "magorovy_labuti_pisne_105.html",
+      "next": "magorovy_labuti_pisne_107.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_107.html",
+      "words": 16,
+      "chars": 83,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 105,
+      "prev": "magorovy_labuti_pisne_106.html",
+      "next": "magorovy_labuti_pisne_108.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_108.html",
+      "words": 28,
+      "chars": 121,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 106,
+      "prev": "magorovy_labuti_pisne_107.html",
+      "next": "magorovy_labuti_pisne_109.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_109.html",
+      "words": 24,
+      "chars": 119,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 107,
+      "prev": "magorovy_labuti_pisne_108.html",
+      "next": "magorovy_labuti_pisne_110.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_110.html",
+      "words": 18,
+      "chars": 90,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 108,
+      "prev": "magorovy_labuti_pisne_109.html",
+      "next": "magorovy_labuti_pisne_111.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_111.html",
+      "words": 40,
+      "chars": 206,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 109,
+      "prev": "magorovy_labuti_pisne_110.html",
+      "next": "magorovy_labuti_pisne_112.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_112.html",
+      "words": 55,
+      "chars": 296,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 110,
+      "prev": "magorovy_labuti_pisne_111.html",
+      "next": "magorovy_labuti_pisne_113.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_113.html",
+      "words": 22,
+      "chars": 110,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 111,
+      "prev": "magorovy_labuti_pisne_112.html",
+      "next": "magorovy_labuti_pisne_114.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_114.html",
+      "words": 50,
+      "chars": 254,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 112,
+      "prev": "magorovy_labuti_pisne_113.html",
+      "next": "magorovy_labuti_pisne_115.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_115.html",
+      "words": 34,
+      "chars": 171,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 113,
+      "prev": "magorovy_labuti_pisne_114.html",
+      "next": "magorovy_labuti_pisne_116.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_116.html",
+      "words": 23,
+      "chars": 116,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 114,
+      "prev": "magorovy_labuti_pisne_115.html",
+      "next": "magorovy_labuti_pisne_117.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_117.html",
+      "words": 36,
+      "chars": 196,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 115,
+      "prev": "magorovy_labuti_pisne_116.html",
+      "next": "magorovy_labuti_pisne_118.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_118.html",
+      "words": 53,
+      "chars": 276,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 116,
+      "prev": "magorovy_labuti_pisne_117.html",
+      "next": "magorovy_labuti_pisne_119.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_119.html",
+      "words": 51,
+      "chars": 325,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 117,
+      "prev": "magorovy_labuti_pisne_118.html",
+      "next": "magorovy_labuti_pisne_120.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_120.html",
+      "words": 46,
+      "chars": 224,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 118,
+      "prev": "magorovy_labuti_pisne_119.html",
+      "next": "magorovy_labuti_pisne_121.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_121.html",
+      "words": 61,
+      "chars": 342,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 119,
+      "prev": "magorovy_labuti_pisne_120.html",
+      "next": "magorovy_labuti_pisne_122.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_122.html",
+      "words": 30,
+      "chars": 153,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 120,
+      "prev": "magorovy_labuti_pisne_121.html",
+      "next": "magorovy_labuti_pisne_123.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_123.html",
+      "words": 23,
+      "chars": 107,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 121,
+      "prev": "magorovy_labuti_pisne_122.html",
+      "next": "magorovy_labuti_pisne_124.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_124.html",
+      "words": 79,
+      "chars": 415,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 122,
+      "prev": "magorovy_labuti_pisne_123.html",
+      "next": "magorovy_labuti_pisne_125.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_125.html",
+      "words": 13,
+      "chars": 59,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 123,
+      "prev": "magorovy_labuti_pisne_124.html",
+      "next": "magorovy_labuti_pisne_126.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_126.html",
+      "words": 30,
+      "chars": 142,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 124,
+      "prev": "magorovy_labuti_pisne_125.html",
+      "next": "magorovy_labuti_pisne_127.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV.MY LOVERS ARE OVER THE OCEANS • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_127.html",
+      "words": 6,
+      "chars": 32,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 125,
+      "prev": "magorovy_labuti_pisne_126.html",
+      "next": "magorovy_labuti_pisne_128.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV.MY LOVERS ARE OVER THE OCEANS",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_128.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 126,
+      "prev": "magorovy_labuti_pisne_127.html",
+      "next": "magorovy_labuti_pisne_129.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_129.html",
+      "words": 23,
+      "chars": 104,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 127,
+      "prev": "magorovy_labuti_pisne_128.html",
+      "next": "magorovy_labuti_pisne_130.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_130.html",
+      "words": 63,
+      "chars": 310,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 128,
+      "prev": "magorovy_labuti_pisne_129.html",
+      "next": "magorovy_labuti_pisne_131.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_131.html",
+      "words": 24,
+      "chars": 112,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 129,
+      "prev": "magorovy_labuti_pisne_130.html",
+      "next": "magorovy_labuti_pisne_132.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_132.html",
+      "words": 37,
+      "chars": 198,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 130,
+      "prev": "magorovy_labuti_pisne_131.html",
+      "next": "magorovy_labuti_pisne_133.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_133.html",
+      "words": 12,
+      "chars": 62,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 131,
+      "prev": "magorovy_labuti_pisne_132.html",
+      "next": "magorovy_labuti_pisne_134.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_134.html",
+      "words": 52,
+      "chars": 267,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 132,
+      "prev": "magorovy_labuti_pisne_133.html",
+      "next": "magorovy_labuti_pisne_135.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_135.html",
+      "words": 48,
+      "chars": 223,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 133,
+      "prev": "magorovy_labuti_pisne_134.html",
+      "next": "magorovy_labuti_pisne_136.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_136.html",
+      "words": 48,
+      "chars": 253,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 134,
+      "prev": "magorovy_labuti_pisne_135.html",
+      "next": "magorovy_labuti_pisne_137.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_137.html",
+      "words": 65,
+      "chars": 338,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 135,
+      "prev": "magorovy_labuti_pisne_136.html",
+      "next": "magorovy_labuti_pisne_138.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_138.html",
+      "words": 16,
+      "chars": 73,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 136,
+      "prev": "magorovy_labuti_pisne_137.html",
+      "next": "magorovy_labuti_pisne_139.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_139.html",
+      "words": 48,
+      "chars": 241,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 137,
+      "prev": "magorovy_labuti_pisne_138.html",
+      "next": "magorovy_labuti_pisne_140.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_140.html",
+      "words": 34,
+      "chars": 195,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 138,
+      "prev": "magorovy_labuti_pisne_139.html",
+      "next": "magorovy_labuti_pisne_141.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_141.html",
+      "words": 88,
+      "chars": 436,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 139,
+      "prev": "magorovy_labuti_pisne_140.html",
+      "next": "magorovy_labuti_pisne_142.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_142.html",
+      "words": 21,
+      "chars": 104,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 140,
+      "prev": "magorovy_labuti_pisne_141.html",
+      "next": "magorovy_labuti_pisne_143.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_143.html",
+      "words": 36,
+      "chars": 169,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 141,
+      "prev": "magorovy_labuti_pisne_142.html",
+      "next": "magorovy_labuti_pisne_144.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_144.html",
+      "words": 39,
+      "chars": 190,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 142,
+      "prev": "magorovy_labuti_pisne_143.html",
+      "next": "magorovy_labuti_pisne_145.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_145.html",
+      "words": 34,
+      "chars": 165,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 143,
+      "prev": "magorovy_labuti_pisne_144.html",
+      "next": "magorovy_labuti_pisne_146.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_146.html",
+      "words": 27,
+      "chars": 131,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 144,
+      "prev": "magorovy_labuti_pisne_145.html",
+      "next": "magorovy_labuti_pisne_147.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_147.html",
+      "words": 67,
+      "chars": 376,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 145,
+      "prev": "magorovy_labuti_pisne_146.html",
+      "next": "magorovy_labuti_pisne_148.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_148.html",
+      "words": 41,
+      "chars": 205,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 146,
+      "prev": "magorovy_labuti_pisne_147.html",
+      "next": "magorovy_labuti_pisne_149.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V.Intermezzo • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_149.html",
+      "words": 1,
+      "chars": 12,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 147,
+      "prev": "magorovy_labuti_pisne_148.html",
+      "next": "magorovy_labuti_pisne_150.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V.Intermezzo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_150.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 148,
+      "prev": "magorovy_labuti_pisne_149.html",
+      "next": "magorovy_labuti_pisne_151.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_151.html",
+      "words": 57,
+      "chars": 331,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 149,
+      "prev": "magorovy_labuti_pisne_150.html",
+      "next": "magorovy_labuti_pisne_152.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_152.html",
+      "words": 65,
+      "chars": 368,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 150,
+      "prev": "magorovy_labuti_pisne_151.html",
+      "next": "magorovy_labuti_pisne_153.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_153.html",
+      "words": 21,
+      "chars": 102,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 151,
+      "prev": "magorovy_labuti_pisne_152.html",
+      "next": "magorovy_labuti_pisne_154.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_154.html",
+      "words": 36,
+      "chars": 200,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 152,
+      "prev": "magorovy_labuti_pisne_153.html",
+      "next": "magorovy_labuti_pisne_155.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_155.html",
+      "words": 61,
+      "chars": 315,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 153,
+      "prev": "magorovy_labuti_pisne_154.html",
+      "next": "magorovy_labuti_pisne_156.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_156.html",
+      "words": 49,
+      "chars": 272,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 154,
+      "prev": "magorovy_labuti_pisne_155.html",
+      "next": "magorovy_labuti_pisne_157.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_157.html",
+      "words": 120,
+      "chars": 589,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 155,
+      "prev": "magorovy_labuti_pisne_156.html",
+      "next": "magorovy_labuti_pisne_158.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_158.html",
+      "words": 42,
+      "chars": 244,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 156,
+      "prev": "magorovy_labuti_pisne_157.html",
+      "next": "magorovy_labuti_pisne_159.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_159.html",
+      "words": 63,
+      "chars": 312,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 157,
+      "prev": "magorovy_labuti_pisne_158.html",
+      "next": "magorovy_labuti_pisne_160.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI.Hommage ­à Boris Savinkov • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_160.html",
+      "words": 4,
+      "chars": 28,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 158,
+      "prev": "magorovy_labuti_pisne_159.html",
+      "next": "magorovy_labuti_pisne_161.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI.Hommage ­à Boris Savinkov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_161.html",
+      "words": 32,
+      "chars": 161,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 159,
+      "prev": "magorovy_labuti_pisne_160.html",
+      "next": "magorovy_labuti_pisne_162.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_162.html",
+      "words": 17,
+      "chars": 97,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 160,
+      "prev": "magorovy_labuti_pisne_161.html",
+      "next": "magorovy_labuti_pisne_163.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_163.html",
+      "words": 18,
+      "chars": 93,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 161,
+      "prev": "magorovy_labuti_pisne_162.html",
+      "next": "magorovy_labuti_pisne_164.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_164.html",
+      "words": 39,
+      "chars": 188,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 162,
+      "prev": "magorovy_labuti_pisne_163.html",
+      "next": "magorovy_labuti_pisne_165.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_165.html",
+      "words": 25,
+      "chars": 120,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 163,
+      "prev": "magorovy_labuti_pisne_164.html",
+      "next": "magorovy_labuti_pisne_166.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_166.html",
+      "words": 45,
+      "chars": 254,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 164,
+      "prev": "magorovy_labuti_pisne_165.html",
+      "next": "magorovy_labuti_pisne_167.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_167.html",
+      "words": 16,
+      "chars": 79,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 165,
+      "prev": "magorovy_labuti_pisne_166.html",
+      "next": "magorovy_labuti_pisne_168.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_168.html",
+      "words": 26,
+      "chars": 122,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 166,
+      "prev": "magorovy_labuti_pisne_167.html",
+      "next": "magorovy_labuti_pisne_169.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_169.html",
+      "words": 33,
+      "chars": 147,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 167,
+      "prev": "magorovy_labuti_pisne_168.html",
+      "next": "magorovy_labuti_pisne_170.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_170.html",
+      "words": 30,
+      "chars": 138,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 168,
+      "prev": "magorovy_labuti_pisne_169.html",
+      "next": "magorovy_labuti_pisne_171.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_171.html",
+      "words": 24,
+      "chars": 105,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 169,
+      "prev": "magorovy_labuti_pisne_170.html",
+      "next": "magorovy_labuti_pisne_172.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_172.html",
+      "words": 20,
+      "chars": 99,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 170,
+      "prev": "magorovy_labuti_pisne_171.html",
+      "next": "magorovy_labuti_pisne_173.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_173.html",
+      "words": 33,
+      "chars": 161,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 171,
+      "prev": "magorovy_labuti_pisne_172.html",
+      "next": "magorovy_labuti_pisne_174.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_174.html",
+      "words": 44,
+      "chars": 251,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 172,
+      "prev": "magorovy_labuti_pisne_173.html",
+      "next": "magorovy_labuti_pisne_175.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_175.html",
+      "words": 18,
+      "chars": 95,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 173,
+      "prev": "magorovy_labuti_pisne_174.html",
+      "next": "magorovy_labuti_pisne_176.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_176.html",
+      "words": 20,
+      "chars": 103,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 174,
+      "prev": "magorovy_labuti_pisne_175.html",
+      "next": "magorovy_labuti_pisne_177.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_177.html",
+      "words": 34,
+      "chars": 151,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 175,
+      "prev": "magorovy_labuti_pisne_176.html",
+      "next": "magorovy_labuti_pisne_178.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_178.html",
+      "words": 28,
+      "chars": 161,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 176,
+      "prev": "magorovy_labuti_pisne_177.html",
+      "next": "magorovy_labuti_pisne_179.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_179.html",
+      "words": 37,
+      "chars": 188,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 177,
+      "prev": "magorovy_labuti_pisne_178.html",
+      "next": "magorovy_labuti_pisne_180.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_180.html",
+      "words": 25,
+      "chars": 125,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 178,
+      "prev": "magorovy_labuti_pisne_179.html",
+      "next": "magorovy_labuti_pisne_181.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_181.html",
+      "words": 22,
+      "chars": 101,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 179,
+      "prev": "magorovy_labuti_pisne_180.html",
+      "next": "magorovy_labuti_pisne_182.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_182.html",
+      "words": 19,
+      "chars": 91,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 180,
+      "prev": "magorovy_labuti_pisne_181.html",
+      "next": "magorovy_labuti_pisne_183.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_183.html",
+      "words": 57,
+      "chars": 304,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 181,
+      "prev": "magorovy_labuti_pisne_182.html",
+      "next": "magorovy_labuti_pisne_184.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_184.html",
+      "words": 27,
+      "chars": 144,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 182,
+      "prev": "magorovy_labuti_pisne_183.html",
+      "next": "magorovy_labuti_pisne_185.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_185.html",
+      "words": 12,
+      "chars": 45,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 183,
+      "prev": "magorovy_labuti_pisne_184.html",
+      "next": "magorovy_labuti_pisne_186.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_186.html",
+      "words": 26,
+      "chars": 148,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 184,
+      "prev": "magorovy_labuti_pisne_185.html",
+      "next": "magorovy_labuti_pisne_187.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_187.html",
+      "words": 43,
+      "chars": 226,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 185,
+      "prev": "magorovy_labuti_pisne_186.html",
+      "next": "magorovy_labuti_pisne_188.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_188.html",
+      "words": 36,
+      "chars": 194,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 186,
+      "prev": "magorovy_labuti_pisne_187.html",
+      "next": "magorovy_labuti_pisne_189.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_189.html",
+      "words": 24,
+      "chars": 138,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 187,
+      "prev": "magorovy_labuti_pisne_188.html",
+      "next": "magorovy_labuti_pisne_190.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_190.html",
+      "words": 60,
+      "chars": 334,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 188,
+      "prev": "magorovy_labuti_pisne_189.html",
+      "next": "magorovy_labuti_pisne_191.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_191.html",
+      "words": 62,
+      "chars": 333,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 189,
+      "prev": "magorovy_labuti_pisne_190.html",
+      "next": "magorovy_labuti_pisne_192.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_192.html",
+      "words": 24,
+      "chars": 129,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 190,
+      "prev": "magorovy_labuti_pisne_191.html",
+      "next": "magorovy_labuti_pisne_193.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_193.html",
+      "words": 40,
+      "chars": 211,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 191,
+      "prev": "magorovy_labuti_pisne_192.html",
+      "next": "magorovy_labuti_pisne_194.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_194.html",
+      "words": 33,
+      "chars": 174,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 192,
+      "prev": "magorovy_labuti_pisne_193.html",
+      "next": "magorovy_labuti_pisne_195.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_195.html",
+      "words": 53,
+      "chars": 251,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 193,
+      "prev": "magorovy_labuti_pisne_194.html",
+      "next": "magorovy_labuti_pisne_196.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_196.html",
+      "words": 39,
+      "chars": 238,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 194,
+      "prev": "magorovy_labuti_pisne_195.html",
+      "next": "magorovy_labuti_pisne_197.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "– – –  • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_197.html",
+      "words": 27,
+      "chars": 120,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 195,
+      "prev": "magorovy_labuti_pisne_196.html",
+      "next": "magorovy_labuti_pisne_198.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "– – –",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Komentáře k jednotlivým textům • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_198.html",
+      "words": 1512,
+      "chars": 8843,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 196,
+      "prev": "magorovy_labuti_pisne_197.html",
+      "next": "magorovy_labuti_pisne_199.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Komentáře k jednotlivým textům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka • Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_199.html",
+      "words": 96,
+      "chars": 700,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 197,
+      "prev": "magorovy_labuti_pisne_198.html",
+      "next": "magorovy_labuti_pisne_200.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magorovy labutí písně",
+      "file": "magorovy_labuti_pisne_200.html",
+      "words": 45,
+      "chars": 283,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 198,
+      "prev": "magorovy_labuti_pisne_199.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 8403,
+      "chars": 44402,
+      "ideas": 1683
+    },
+    "chapters": {
+      "words": 8396,
+      "chars": 44358,
+      "ideas": 1680
+    }
+  }
+}
