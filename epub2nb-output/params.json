@@ -130,10 +130,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
-            "children": [],
-            "subtitle": "Jak dlouho Bože ještě snesu"
+            "hiddenTitle": true,
+            "title": "Jak dlouho Bože ještě snesu ...",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_009.md",
@@ -144,8 +143,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Služební psi na dvoře vyjí)",
             "children": []
           },
           {
@@ -157,8 +156,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Monotónní můj itinerář posledních let)",
             "children": []
           },
           {
@@ -170,8 +169,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Když jsme se blížili k Valdicím alejí)",
             "children": []
           },
           {
@@ -183,8 +182,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Víš ty Bože vůbec o mně)",
             "children": []
           },
           {
@@ -196,8 +195,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Na Mírově jsem makal v kapli)",
             "children": []
           },
           {
@@ -209,8 +208,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (A tak vychutnám si zas)",
             "children": []
           },
           {
@@ -222,8 +221,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Z téhle noci mě nezachrání)",
             "children": []
           },
           {
@@ -235,8 +234,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Kdybych to nebral religiózně)",
             "children": []
           },
           {
@@ -248,8 +247,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Na průčelí cygnus olor)",
             "children": []
           },
           {
@@ -261,8 +260,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Odpočívají bílé myšky)",
             "children": []
           },
           {
@@ -274,8 +273,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Svět se připravuje k střetu)",
             "children": []
           },
           {
@@ -287,8 +286,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (V neštěstí se vždycky hbitě)",
             "children": []
           },
           {
@@ -300,8 +299,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Vidím že píšu o pekle)",
             "children": []
           },
           {
@@ -313,8 +312,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Jenom to Pane vědět chci)",
             "children": []
           },
           {
@@ -326,8 +325,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (Krásná je hora Mt St Michel)",
             "children": []
           },
           {
@@ -339,8 +338,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "– – – (I se starým dobrým Lombrosem)",
             "children": []
           },
           {
@@ -354,7 +353,8 @@
             "devoured": false,
             "hiddenTitle": false,
             "title": "– – – ",
-            "children": []
+            "children": [],
+            "subtitle": "Špatně se skládá elegie"
           },
           {
             "filename": "magorovy_labuti_pisne_026.md",
@@ -367,7 +367,8 @@
             "devoured": false,
             "hiddenTitle": false,
             "title": "– – – ",
-            "children": []
+            "children": [],
+            "subtitle": "Tytam jsou s milenkami strasti"
           },
           {
             "filename": "magorovy_labuti_pisne_027.md",
@@ -380,7 +381,8 @@
             "devoured": false,
             "hiddenTitle": false,
             "title": "– – – ",
-            "children": []
+            "children": [],
+            "subtitle": "Odpusť nám Bože naše viny"
           },
           {
             "filename": "magorovy_labuti_pisne_028.md",
@@ -1198,7 +1200,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "II.Důms modrým beránkem",
+            "title": "II.Dům s modrým beránkem",
             "children": []
           },
           {
@@ -2625,7 +2627,7 @@
       "identifier": "urn:uuid:e687ed89-9d93-4291-985f-754e4e39c82b",
       "author": "Ivan Martin Jirous",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-17T12:28:29.341Z"
+      "modified": "2022-03-17T12:43:41.106Z"
     },
     "chapters": [
       {
@@ -3904,6 +3906,6 @@
       "user": "books-are-next",
       "repo": "jirous-magorovy-labuti-pisne"
     },
-    "generatedAt": 1647520110088
+    "generatedAt": 1647521022047
   }
 }
