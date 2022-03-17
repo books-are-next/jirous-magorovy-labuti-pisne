@@ -222,56 +222,56 @@ tocBase:
         title: I.Labuť sv. Huga
         hiddenTitle: false
       - link: magorovy_labuti_pisne_008.html
-        title: '– – – '
-        hiddenTitle: false
+        title: Jak dlouho Bože ještě snesu ...
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_009.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Služební psi na dvoře vyjí)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_010.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Monotónní můj itinerář posledních let)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_011.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Když jsme se blížili k Valdicím alejí)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_012.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Víš ty Bože vůbec o mně)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_013.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Na Mírově jsem makal v kapli)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_014.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (A tak vychutnám si zas)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_015.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Z téhle noci mě nezachrání)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_016.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Kdybych to nebral religiózně)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_017.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Na průčelí cygnus olor)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_018.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Odpočívají bílé myšky)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_019.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Svět se připravuje k střetu)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_020.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (V neštěstí se vždycky hbitě)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_021.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Vidím že píšu o pekle)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_022.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Jenom to Pane vědět chci)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_023.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (Krásná je hora Mt St Michel)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_024.html
-        title: '– – – '
-        hiddenTitle: false
+        title: – – – (I se starým dobrým Lombrosem)
+        hiddenTitle: true
       - link: magorovy_labuti_pisne_025.html
         title: '– – – '
         hiddenTitle: false
@@ -468,7 +468,7 @@ tocBase:
         title: '– – – '
         hiddenTitle: false
       - link: magorovy_labuti_pisne_091.html
-        title: II.Důms modrým beránkem
+        title: II.Dům s modrým beránkem
         hiddenTitle: false
       - link: magorovy_labuti_pisne_092.html
         title: '– – – '
