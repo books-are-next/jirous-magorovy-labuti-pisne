@@ -69,8 +69,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Magorovy Labutí písně"
+            "title": "Magorovy Labutí písně",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_004.md",
@@ -118,8 +118,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I.Labuť sv. Huga"
+            "title": "I.Labuť sv. Huga",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_008.md",
@@ -130,9 +130,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Jak dlouho Bože ještě snesu)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_009.md",
@@ -143,9 +143,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Služební psi na dvoře vyjí)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_010.md",
@@ -156,9 +156,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Monotónní můj itinerář posledních let)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_011.md",
@@ -169,9 +169,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Když jsme se blížili k Valdicím alejí)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_012.md",
@@ -182,9 +182,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Víš ty Bože vůbec o mně)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_013.md",
@@ -195,9 +195,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Na Mírově jsem makal v kapli)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_014.md",
@@ -208,9 +208,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (A tak vychutnám si zas)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_015.md",
@@ -221,9 +221,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Z téhle noci mě nezachrání)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_016.md",
@@ -234,9 +234,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Kdybych to nebral religiózně)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_017.md",
@@ -247,9 +247,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Na průčelí cygnus olor)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_018.md",
@@ -260,9 +260,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Odpočívají bílé myšky)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_019.md",
@@ -273,9 +273,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Svět se připravuje k střetu)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_020.md",
@@ -286,9 +286,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (V neštěstí se vždycky hbitě)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_021.md",
@@ -299,9 +299,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Vidím že píšu o pekle)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_022.md",
@@ -312,9 +312,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Jenom to Pane vědět chci)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_023.md",
@@ -325,9 +325,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (Krásná je hora Mt St Michel)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_024.md",
@@ -338,9 +338,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "hiddenTitle": true,
+            "title": "– – – (I se starým dobrým Lombrosem)",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_025.md",
@@ -352,8 +352,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_026.md",
@@ -365,8 +365,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_027.md",
@@ -378,8 +378,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_028.md",
@@ -391,8 +391,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_029.md",
@@ -404,8 +404,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_030.md",
@@ -417,8 +417,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_031.md",
@@ -430,8 +430,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_032.md",
@@ -443,8 +443,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_033.md",
@@ -456,8 +456,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_034.md",
@@ -469,8 +469,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_035.md",
@@ -482,8 +482,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_036.md",
@@ -495,8 +495,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_037.md",
@@ -508,8 +508,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_038.md",
@@ -521,8 +521,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_039.md",
@@ -534,8 +534,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_040.md",
@@ -547,8 +547,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_041.md",
@@ -560,8 +560,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_042.md",
@@ -573,8 +573,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_043.md",
@@ -586,8 +586,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_044.md",
@@ -599,8 +599,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_045.md",
@@ -612,8 +612,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_046.md",
@@ -625,8 +625,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_047.md",
@@ -638,8 +638,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_048.md",
@@ -651,8 +651,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_049.md",
@@ -664,8 +664,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_050.md",
@@ -677,8 +677,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_051.md",
@@ -690,8 +690,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_052.md",
@@ -703,8 +703,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_053.md",
@@ -716,8 +716,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_054.md",
@@ -729,8 +729,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_055.md",
@@ -742,8 +742,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_056.md",
@@ -755,8 +755,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_057.md",
@@ -768,8 +768,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_058.md",
@@ -781,8 +781,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_059.md",
@@ -794,8 +794,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_060.md",
@@ -807,8 +807,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_061.md",
@@ -820,8 +820,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_062.md",
@@ -833,8 +833,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_063.md",
@@ -846,8 +846,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_064.md",
@@ -859,8 +859,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_065.md",
@@ -872,8 +872,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_066.md",
@@ -885,8 +885,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_067.md",
@@ -898,8 +898,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_068.md",
@@ -911,8 +911,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_069.md",
@@ -924,8 +924,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_070.md",
@@ -937,8 +937,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_071.md",
@@ -950,8 +950,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_072.md",
@@ -963,8 +963,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_073.md",
@@ -976,8 +976,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_074.md",
@@ -989,8 +989,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_075.md",
@@ -1002,8 +1002,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_076.md",
@@ -1015,8 +1015,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_077.md",
@@ -1028,8 +1028,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_078.md",
@@ -1041,8 +1041,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_079.md",
@@ -1054,8 +1054,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_080.md",
@@ -1067,8 +1067,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_081.md",
@@ -1080,8 +1080,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_082.md",
@@ -1093,8 +1093,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_083.md",
@@ -1106,8 +1106,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_084.md",
@@ -1119,8 +1119,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_085.md",
@@ -1132,8 +1132,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_086.md",
@@ -1145,8 +1145,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_087.md",
@@ -1158,8 +1158,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_088.md",
@@ -1171,8 +1171,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_089.md",
@@ -1184,8 +1184,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_091.md",
@@ -1197,8 +1197,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II.Dům s modrým beránkem"
+            "title": "II.Dům s modrým beránkem",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_092.md",
@@ -1210,8 +1210,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_093.md",
@@ -1223,8 +1223,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_094.md",
@@ -1236,8 +1236,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_095.md",
@@ -1249,8 +1249,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_096.md",
@@ -1262,8 +1262,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_097.md",
@@ -1275,8 +1275,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_098.md",
@@ -1288,8 +1288,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_099.md",
@@ -1301,8 +1301,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_100.md",
@@ -1314,8 +1314,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_101.md",
@@ -1327,8 +1327,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_102.md",
@@ -1340,8 +1340,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_103.md",
@@ -1353,8 +1353,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_104.md",
@@ -1366,8 +1366,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_105.md",
@@ -1379,8 +1379,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III. MAGOR D’OR"
+            "title": "III. MAGOR D’OR",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_106.md",
@@ -1404,8 +1404,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_108.md",
@@ -1417,8 +1417,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_109.md",
@@ -1430,8 +1430,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_110.md",
@@ -1443,8 +1443,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_111.md",
@@ -1456,8 +1456,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_112.md",
@@ -1469,8 +1469,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_113.md",
@@ -1482,8 +1482,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_114.md",
@@ -1495,8 +1495,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_115.md",
@@ -1508,8 +1508,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_116.md",
@@ -1521,8 +1521,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_117.md",
@@ -1534,8 +1534,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_118.md",
@@ -1547,8 +1547,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_119.md",
@@ -1560,8 +1560,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_120.md",
@@ -1573,8 +1573,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_121.md",
@@ -1586,8 +1586,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_122.md",
@@ -1599,8 +1599,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_123.md",
@@ -1612,8 +1612,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_124.md",
@@ -1625,8 +1625,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_125.md",
@@ -1638,8 +1638,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_126.md",
@@ -1651,8 +1651,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_127.md",
@@ -1664,8 +1664,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV.MY LOVERS ARE OVER THE OCEANS"
+            "title": "IV.MY LOVERS ARE OVER THE OCEANS",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_128.md",
@@ -1689,8 +1689,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_130.md",
@@ -1702,8 +1702,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_131.md",
@@ -1715,8 +1715,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_132.md",
@@ -1728,8 +1728,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_133.md",
@@ -1741,8 +1741,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_134.md",
@@ -1754,8 +1754,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_135.md",
@@ -1767,8 +1767,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_136.md",
@@ -1780,8 +1780,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_137.md",
@@ -1793,8 +1793,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_138.md",
@@ -1806,8 +1806,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_139.md",
@@ -1819,8 +1819,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_140.md",
@@ -1832,8 +1832,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_141.md",
@@ -1845,8 +1845,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_142.md",
@@ -1858,8 +1858,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_143.md",
@@ -1871,8 +1871,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_144.md",
@@ -1884,8 +1884,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_145.md",
@@ -1897,8 +1897,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_146.md",
@@ -1910,8 +1910,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_147.md",
@@ -1923,8 +1923,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_148.md",
@@ -1936,8 +1936,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_149.md",
@@ -1949,8 +1949,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V.Intermezzo"
+            "title": "V.Intermezzo",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_150.md",
@@ -1974,8 +1974,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_152.md",
@@ -1987,8 +1987,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_153.md",
@@ -2000,8 +2000,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_154.md",
@@ -2013,8 +2013,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_155.md",
@@ -2026,8 +2026,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_156.md",
@@ -2039,8 +2039,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_157.md",
@@ -2052,8 +2052,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_158.md",
@@ -2065,8 +2065,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_159.md",
@@ -2078,8 +2078,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_160.md",
@@ -2091,8 +2091,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI.Hommage ­à Boris Savinkov"
+            "title": "VI.Hommage ­à Boris Savinkov",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_161.md",
@@ -2104,8 +2104,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_162.md",
@@ -2117,8 +2117,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_163.md",
@@ -2130,8 +2130,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_164.md",
@@ -2143,8 +2143,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_165.md",
@@ -2156,8 +2156,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_166.md",
@@ -2169,8 +2169,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_167.md",
@@ -2182,8 +2182,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_168.md",
@@ -2195,8 +2195,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_169.md",
@@ -2208,8 +2208,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_170.md",
@@ -2221,8 +2221,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_171.md",
@@ -2234,8 +2234,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_172.md",
@@ -2247,8 +2247,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_173.md",
@@ -2260,8 +2260,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_174.md",
@@ -2273,8 +2273,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_175.md",
@@ -2286,8 +2286,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_176.md",
@@ -2299,8 +2299,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_177.md",
@@ -2312,8 +2312,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_178.md",
@@ -2325,8 +2325,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_179.md",
@@ -2338,8 +2338,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_180.md",
@@ -2351,8 +2351,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_181.md",
@@ -2364,8 +2364,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_182.md",
@@ -2377,8 +2377,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_183.md",
@@ -2390,8 +2390,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_184.md",
@@ -2403,8 +2403,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_185.md",
@@ -2416,8 +2416,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_186.md",
@@ -2429,8 +2429,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_187.md",
@@ -2442,8 +2442,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_188.md",
@@ -2455,8 +2455,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_189.md",
@@ -2468,8 +2468,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_190.md",
@@ -2481,8 +2481,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_191.md",
@@ -2494,8 +2494,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_192.md",
@@ -2507,8 +2507,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_193.md",
@@ -2520,8 +2520,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_194.md",
@@ -2533,8 +2533,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_195.md",
@@ -2546,8 +2546,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_196.md",
@@ -2559,8 +2559,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_197.md",
@@ -2572,8 +2572,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "– – – "
+            "title": "– – – ",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_198.md",
@@ -2585,8 +2585,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Komentáře k jednotlivým textům"
+            "title": "Komentáře k jednotlivým textům",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_199.md",
@@ -2598,8 +2598,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ediční poznámka"
+            "title": "Ediční poznámka",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_200.md",
@@ -2624,7 +2624,7 @@
       "identifier": "urn:uuid:e687ed89-9d93-4291-985f-754e4e39c82b",
       "author": "Ivan Martin Jirous",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T16:04:43.161Z"
+      "modified": "2022-03-17T12:22:11.773Z"
     },
     "chapters": [
       {
@@ -3903,6 +3903,6 @@
       "user": "books-are-next",
       "repo": "jirous-magorovy-labuti-pisne"
     },
-    "generatedAt": 1647360284074
+    "generatedAt": 1647519732767
   }
 }
