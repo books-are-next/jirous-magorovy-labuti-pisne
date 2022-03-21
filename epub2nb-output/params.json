@@ -39,7 +39,7 @@
             "filename": "magorovy_labuti_pisne_001.md",
             "xhtml": "magorovy_labuti_pisne_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -53,7 +53,7 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -63,7 +63,7 @@
             "filename": "magorovy_labuti_pisne_003.md",
             "xhtml": "magorovy_labuti_pisne_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "magorovy_labuti_pisne_004.md",
             "xhtml": "magorovy_labuti_pisne_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -93,8 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "magorovy_labuti_pisne_006.md",
@@ -131,7 +132,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "Jak dlouho Bože ještě snesu ...",
+            "title": "Jak dlouho Bože ještě snesu",
             "children": []
           },
           {
@@ -144,7 +145,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Služební psi na dvoře vyjí)",
+            "title": "Služební psi na dvoře vyjí",
             "children": []
           },
           {
@@ -157,7 +158,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Monotónní můj itinerář posledních let)",
+            "title": "Monotónní můj itinerář posledních let",
             "children": []
           },
           {
@@ -170,7 +171,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Když jsme se blížili k Valdicím alejí)",
+            "title": "Když jsme se blížili k Valdicím alejí",
             "children": []
           },
           {
@@ -183,7 +184,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Víš ty Bože vůbec o mně)",
+            "title": "Víš ty Bože vůbec o mně",
             "children": []
           },
           {
@@ -196,7 +197,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Na Mírově jsem makal v kapli)",
+            "title": "Na Mírově jsem makal v kapli",
             "children": []
           },
           {
@@ -209,7 +210,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (A tak vychutnám si zas)",
+            "title": "A tak vychutnám si zas",
             "children": []
           },
           {
@@ -222,7 +223,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Z téhle noci mě nezachrání)",
+            "title": "Z téhle noci mě nezachrání",
             "children": []
           },
           {
@@ -235,7 +236,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Kdybych to nebral religiózně)",
+            "title": "Kdybych to nebral religiózně",
             "children": []
           },
           {
@@ -248,7 +249,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Na průčelí cygnus olor)",
+            "title": "Na průčelí cygnus olor",
             "children": []
           },
           {
@@ -261,7 +262,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Odpočívají bílé myšky)",
+            "title": "Odpočívají bílé myšky",
             "children": []
           },
           {
@@ -274,7 +275,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Svět se připravuje k střetu)",
+            "title": "Svět se připravuje k střetu",
             "children": []
           },
           {
@@ -287,7 +288,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (V neštěstí se vždycky hbitě)",
+            "title": "V neštěstí se vždycky hbitě",
             "children": []
           },
           {
@@ -300,7 +301,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Vidím že píšu o pekle)",
+            "title": "Vidím že píšu o pekle",
             "children": []
           },
           {
@@ -313,7 +314,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Jenom to Pane vědět chci)",
+            "title": "Jenom to Pane vědět chci",
             "children": []
           },
           {
@@ -326,7 +327,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (Krásná je hora Mt St Michel)",
+            "title": "Krásná je hora Mt St Michel",
             "children": []
           },
           {
@@ -339,7 +340,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "title": "– – – (I se starým dobrým Lombrosem)",
+            "title": "I se starým dobrým Lombrosem",
             "children": []
           },
           {
@@ -351,10 +352,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
-            "children": [],
-            "subtitle": "Špatně se skládá elegie"
+            "hiddenTitle": true,
+            "title": "Špatně se skládá elegie",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_026.md",
@@ -365,10 +365,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
-            "children": [],
-            "subtitle": "Tytam jsou s milenkami strasti"
+            "hiddenTitle": true,
+            "title": "Tytam jsou s milenkami strasti",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_027.md",
@@ -379,10 +378,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
-            "children": [],
-            "subtitle": "Odpusť nám Bože naše viny"
+            "hiddenTitle": true,
+            "title": "Odpusť nám Bože naše viny",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_028.md",
@@ -393,8 +391,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Oknem se blíží vůně tújí",
             "children": []
           },
           {
@@ -406,8 +404,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Sv. Hugo Grenobelský",
             "children": []
           },
           {
@@ -419,8 +417,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Troufám si jenom ostýchavě",
             "children": []
           },
           {
@@ -432,8 +430,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ze zrcadla se loupe rtuť",
             "children": []
           },
           {
@@ -445,8 +443,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Dneska poprvé pokušení",
             "children": []
           },
           {
@@ -458,8 +456,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Viď tak se uzel za uzlem",
             "children": []
           },
           {
@@ -471,8 +469,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Rozumu snad jsi mě Bože už dočista zbavil",
             "children": []
           },
           {
@@ -484,8 +482,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Píseň si zpívám má jeden takt",
             "children": []
           },
           {
@@ -497,8 +495,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Pomoz mi svatý Antoníne",
             "children": []
           },
           {
@@ -510,8 +508,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Že jsem si vzpomněl než jsem to vzdal",
             "children": []
           },
           {
@@ -523,8 +521,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Jen s nimi mluvím a mám zas",
             "children": []
           },
           {
@@ -536,8 +534,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Pořád Pane Bože věřím",
             "children": []
           },
           {
@@ -549,8 +547,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Napsal jste Bondy slavné ódy",
             "children": []
           },
           {
@@ -562,8 +560,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Jednou za čas se snese",
             "children": []
           },
           {
@@ -575,8 +573,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "I ve vězení mám nápady jak snob",
             "children": []
           },
           {
@@ -588,8 +586,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Tak jako v houslích",
             "children": []
           },
           {
@@ -601,8 +599,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Když vypustí nás z našich cel",
             "children": []
           },
           {
@@ -614,8 +612,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Na dvoře v Kartouzích",
             "children": []
           },
           {
@@ -627,8 +625,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Neplavil jsem se po mořích",
             "children": []
           },
           {
@@ -640,8 +638,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Kartuziáni se slibem mlčení",
             "children": []
           },
           {
@@ -653,8 +651,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Jako by rdousila mě krajta",
             "children": []
           },
           {
@@ -666,8 +664,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Týdny měsíce léta jdou",
             "children": []
           },
           {
@@ -679,8 +677,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Málo je líbezný",
             "children": []
           },
           {
@@ -692,8 +690,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Komenský po požáru v Lešně",
             "children": []
           },
           {
@@ -705,8 +703,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Nad Valdicemi krouží rorýs",
             "children": []
           },
           {
@@ -718,8 +716,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Každý nese co unese",
             "children": []
           },
           {
@@ -731,8 +729,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ach nejsem nejsem Oscar Wilde",
             "children": []
           },
           {
@@ -744,8 +742,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Nevím zda svítá nebo tmí se",
             "children": []
           },
           {
@@ -757,8 +755,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "S nebe se dívá T. G. Masaryk",
             "children": []
           },
           {
@@ -770,8 +768,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Řekl jsi: mihi vindictam",
             "children": []
           },
           {
@@ -783,8 +781,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ani heřmánek ani rum",
             "children": []
           },
           {
@@ -796,8 +794,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Genius loci zřejmě mi",
             "children": []
           },
           {
@@ -809,8 +807,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ledové svírají srdce kry",
             "children": []
           },
           {
@@ -822,8 +820,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Skrz mříže slyším přes tu dálku",
             "children": []
           },
           {
@@ -835,8 +833,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "V naší rodině ponuře",
             "children": []
           },
           {
@@ -848,8 +846,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Po letech jenom noční můra",
             "children": []
           },
           {
@@ -861,8 +859,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Mí spolužáci",
             "children": []
           },
           {
@@ -874,8 +872,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Apokalyptické saranče",
             "children": []
           },
           {
@@ -887,8 +885,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Tuší snad jenom Amnesty",
             "children": []
           },
           {
@@ -900,8 +898,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Chystají pro mne vyhnanství",
             "children": []
           },
           {
@@ -913,8 +911,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Cibule kostelů zlátnou a zrají",
             "children": []
           },
           {
@@ -926,8 +924,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Trpělivě Bůh na Kartouzy",
             "children": []
           },
           {
@@ -939,8 +937,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Píše mi žena v dopise",
             "children": []
           },
           {
@@ -952,8 +950,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Jen to nutkání k oběšení",
             "children": []
           },
           {
@@ -965,8 +963,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Čtu Julianin dopis v tichu",
             "children": []
           },
           {
@@ -978,8 +976,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Pod hlohem odváděli mne",
             "children": []
           },
           {
@@ -991,8 +989,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Začal jsem s André Bretonem",
             "children": []
           },
           {
@@ -1004,8 +1002,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Pokaždé když jsem v klauzuře",
             "children": []
           },
           {
@@ -1017,8 +1015,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Po třetí vlaštovkám zaroste ozobí",
             "children": []
           },
           {
@@ -1030,8 +1028,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Tři dny před svátkem sv. Anny",
             "children": []
           },
           {
@@ -1043,8 +1041,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Sub tumultuoso coelo",
             "children": []
           },
           {
@@ -1056,8 +1054,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Den po Panny Marie Nanebevzetí",
             "children": []
           },
           {
@@ -1069,8 +1067,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Nějak už se mi kreatury",
             "children": []
           },
           {
@@ -1082,8 +1080,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Jestli mě ještě po páté",
             "children": []
           },
           {
@@ -1095,8 +1093,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Už vědět nechtějí",
             "children": []
           },
           {
@@ -1108,8 +1106,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Markétka po biřmování",
             "children": []
           },
           {
@@ -1121,8 +1119,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Chuť nemám ani inspiraci",
             "children": []
           },
           {
@@ -1134,8 +1132,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Bílé pivoňky začly kvést",
             "children": []
           },
           {
@@ -1147,8 +1145,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Zřejmě je Bože Tvojí vůlí",
             "children": []
           },
           {
@@ -1160,8 +1158,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "K narozeninám dal mi nakladatel",
             "children": []
           },
           {
@@ -1173,8 +1171,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Kamení sv. Štěpánovi",
             "children": []
           },
           {
@@ -1186,8 +1184,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Každý básník tvoří jak umí",
             "children": []
           },
           {
@@ -1212,8 +1210,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Smutná je holka když chlapa si vezme",
             "children": []
           },
           {
@@ -1225,8 +1223,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Vráťa vyhlíží ve Vídni",
             "children": []
           },
           {
@@ -1238,8 +1236,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Sicilští plavci zpívali",
             "children": []
           },
           {
@@ -1251,8 +1249,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Nebe polité inkoustem",
             "children": []
           },
           {
@@ -1264,8 +1262,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Zlíbilo se Bohu",
             "children": []
           },
           {
@@ -1277,8 +1275,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "U Telče v kupce sena",
             "children": []
           },
           {
@@ -1290,8 +1288,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "V říjnu pojedeš do Vydří",
             "children": []
           },
           {
@@ -1303,8 +1301,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "V té krátké chvíli usínání",
             "children": []
           },
           {
@@ -1316,8 +1314,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Poprosím vroucně Marii Pannu",
             "children": []
           },
           {
@@ -1329,8 +1327,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ve vykropeném domečku",
             "children": []
           },
           {
@@ -1342,8 +1340,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Když uléhají beránky",
             "children": []
           },
           {
@@ -1355,8 +1353,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Proč já nejsem pyromanem",
             "children": []
           },
           {
@@ -1368,8 +1366,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Okolo Panny Marie",
             "children": []
           },
           {
@@ -1394,8 +1392,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "magorovy_labuti_pisne_107.md",
@@ -1406,8 +1405,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Obklopeni nenávistí",
             "children": []
           },
           {
@@ -1419,8 +1418,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Vaše duše se k Bohu vrací",
             "children": []
           },
           {
@@ -1432,8 +1431,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "O milost Pane Bože prosím",
             "children": []
           },
           {
@@ -1445,8 +1444,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "O nebe prosím Ježíše",
             "children": []
           },
           {
@@ -1458,8 +1457,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Syrové maso ukaž v ráně",
             "children": []
           },
           {
@@ -1471,8 +1470,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Panně Marii s děťátkem",
             "children": []
           },
           {
@@ -1484,8 +1483,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Tak nevím když modlit se neumím",
             "children": []
           },
           {
@@ -1497,8 +1496,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Anděl smrti si prohlíží",
             "children": []
           },
           {
@@ -1510,8 +1509,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Svatý Prokope Ty který jsi",
             "children": []
           },
           {
@@ -1523,8 +1522,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Modlím se k zemským patronům",
             "children": []
           },
           {
@@ -1536,8 +1535,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Sv. Martine, přímluvče mocný",
             "children": []
           },
           {
@@ -1549,8 +1548,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Jilmy porostlé břečťanem",
             "children": []
           },
           {
@@ -1562,8 +1561,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Hora svlačcem omotaná",
             "children": []
           },
           {
@@ -1575,8 +1574,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Na nebi světlo nevídané",
             "children": []
           },
           {
@@ -1588,8 +1587,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Rorate coeli desuper",
             "children": []
           },
           {
@@ -1601,8 +1600,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Kdybychom uměli být sami",
             "children": []
           },
           {
@@ -1614,8 +1613,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "V úzkostech volal jsem Beránka",
             "children": []
           },
           {
@@ -1627,8 +1626,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Bělejší je nad Beránka",
             "children": []
           },
           {
@@ -1640,8 +1639,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "A nejtěžšího mezi hříchy",
             "children": []
           },
           {
@@ -1653,8 +1652,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Na chvíli vítr co vane kam chce ztich",
             "children": []
           },
           {
@@ -1679,8 +1678,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "magorovy_labuti_pisne_129.md",
@@ -1691,8 +1691,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Těžko píšu bez Brikciuse",
             "children": []
           },
           {
@@ -1704,8 +1704,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Zatímco Liška s Brikciusem",
             "children": []
           },
           {
@@ -1717,8 +1717,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Osud byl ke mně asi drsnej",
             "children": []
           },
           {
@@ -1730,8 +1730,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Tak po přátelích v cizině",
             "children": []
           },
           {
@@ -1743,8 +1743,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Dodnes tvým slovům Dušane věřím",
             "children": []
           },
           {
@@ -1756,8 +1756,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Jestli nebe nezesvětlá",
             "children": []
           },
           {
@@ -1769,8 +1769,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ať mám či nemám na kahánku",
             "children": []
           },
           {
@@ -1782,8 +1782,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Vráťa teď okukuje Prátr",
             "children": []
           },
           {
@@ -1795,8 +1795,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Když básníkům je prabídně",
             "children": []
           },
           {
@@ -1808,8 +1808,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Za velkou louží",
             "children": []
           },
           {
@@ -1821,8 +1821,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Pavel Wilson je za vodou",
             "children": []
           },
           {
@@ -1834,8 +1834,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Zetlelou přikryti korouhví",
             "children": []
           },
           {
@@ -1847,8 +1847,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Na hřbitov v Hrochově Týnci",
             "children": []
           },
           {
@@ -1860,8 +1860,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Když dorazil do Montrealu",
             "children": []
           },
           {
@@ -1873,8 +1873,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Nenapadá mě žádný rým",
             "children": []
           },
           {
@@ -1886,8 +1886,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "V doslovu čtu ke Stevensonovi",
             "children": []
           },
           {
@@ -1899,8 +1899,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "I zavál Janu zoufalou",
             "children": []
           },
           {
@@ -1912,8 +1912,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Hovězí porážky nářek zní z jatek",
             "children": []
           },
           {
@@ -1925,8 +1925,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Moře Ti ostrov odplavuje",
             "children": []
           },
           {
@@ -1938,8 +1938,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ve vzpomínkách se Praha mi",
             "children": []
           },
           {
@@ -1964,8 +1964,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "magorovy_labuti_pisne_151.md",
@@ -1976,8 +1977,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Na chvíli jednorožec zdržel se u studánky",
             "children": []
           },
           {
@@ -1989,8 +1990,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ejhle po žebříku Jakubově",
             "children": []
           },
           {
@@ -2002,8 +2003,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Olej nalitý na zátoku",
             "children": []
           },
           {
@@ -2015,8 +2016,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Na křídlech andělé ji zvedli",
             "children": []
           },
           {
@@ -2028,8 +2029,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "V mrazu se chvěje ztuhlý lůj",
             "children": []
           },
           {
@@ -2041,8 +2042,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Tak vetknuli jí do drdolu",
             "children": []
           },
           {
@@ -2054,8 +2055,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Na poli lilií",
             "children": []
           },
           {
@@ -2067,8 +2068,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Svěcenou rosou postříkána",
             "children": []
           },
           {
@@ -2080,8 +2081,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Za údolími lesy",
             "children": []
           },
           {
@@ -2093,7 +2094,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
+            "hiddenTitle": true,
             "title": "VI.Hommage ­à Boris Savinkov",
             "children": []
           },
@@ -2106,8 +2107,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Po ránu mezi ďábly vstávám",
             "children": []
           },
           {
@@ -2119,8 +2120,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Poprosím pátera Bonaventuru",
             "children": []
           },
           {
@@ -2132,8 +2133,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ješitnost překvapivá",
             "children": []
           },
           {
@@ -2145,8 +2146,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Za plynem jako za ropou",
             "children": []
           },
           {
@@ -2158,8 +2159,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Jako by moje rodná zem",
             "children": []
           },
           {
@@ -2171,8 +2172,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Doktor Dubský si po cestě",
             "children": []
           },
           {
@@ -2184,8 +2185,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Daníček se v maringotce",
             "children": []
           },
           {
@@ -2197,8 +2198,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Na nebe vystoupil Salvador Dalí",
             "children": []
           },
           {
@@ -2210,8 +2211,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Jdou volit cestou z kostela",
             "children": []
           },
           {
@@ -2223,8 +2224,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "V bělostné říze",
             "children": []
           },
           {
@@ -2236,8 +2237,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Z úst věřících se pára sráží",
             "children": []
           },
           {
@@ -2249,8 +2250,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Krásné jsou Plastiků Pašije",
             "children": []
           },
           {
@@ -2262,8 +2263,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ptali se svaté Cecilie",
             "children": []
           },
           {
@@ -2275,8 +2276,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Vznesl se zástup andělů",
             "children": []
           },
           {
@@ -2288,8 +2289,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Saranče z Apokalypsy",
             "children": []
           },
           {
@@ -2301,8 +2302,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Dnes stejně jako před lety",
             "children": []
           },
           {
@@ -2314,8 +2315,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Kdysi jsi báseň psal",
             "children": []
           },
           {
@@ -2327,8 +2328,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Zařvala triumfálním rykem",
             "children": []
           },
           {
@@ -2340,8 +2341,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Podivně odešel básník Holan",
             "children": []
           },
           {
@@ -2353,8 +2354,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Ví v Pelhřimově kdejaký buran",
             "children": []
           },
           {
@@ -2366,8 +2367,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Napřeskáčku melu pantem",
             "children": []
           },
           {
@@ -2379,8 +2380,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Pročpak mu říkáš vole",
             "children": []
           },
           {
@@ -2392,8 +2393,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Na plácek k svatému Mikuláši",
             "children": []
           },
           {
@@ -2405,8 +2406,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Panenka Maria snad už je pomstěna",
             "children": []
           },
           {
@@ -2418,8 +2419,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Teď Pán Bůh hubí jilmy",
             "children": []
           },
           {
@@ -2431,8 +2432,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Bílé květy střemchy už nepohostí chrousty",
             "children": []
           },
           {
@@ -2444,8 +2445,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Líbánky vzaly konec zlý",
             "children": []
           },
           {
@@ -2457,8 +2458,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Řek mojí ženě doktor Štěpánek",
             "children": []
           },
           {
@@ -2470,8 +2471,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Profesor Černý studoval v Dijonu",
             "children": []
           },
           {
@@ -2483,8 +2484,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Inženýr Jirous",
             "children": []
           },
           {
@@ -2496,8 +2497,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Vzpomínka zastřená přes času dálku",
             "children": []
           },
           {
@@ -2509,8 +2510,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Důstojníku, hlavně abys nezapomněl na cannabis!",
             "children": []
           },
           {
@@ -2522,8 +2523,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Už Petra Brodského zbavili souhlasu",
             "children": []
           },
           {
@@ -2535,8 +2536,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Už v dětství jsem byl trochu jiný",
             "children": []
           },
           {
@@ -2548,8 +2549,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Funus byl pana Reynka",
             "children": []
           },
           {
@@ -2561,8 +2562,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Přinesu lilii",
             "children": []
           },
           {
@@ -2574,8 +2575,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "title": "– – – ",
+            "hiddenTitle": true,
+            "title": "Nad dvěma slunci",
             "children": []
           },
           {
@@ -2608,7 +2609,7 @@
             "filename": "magorovy_labuti_pisne_200.md",
             "xhtml": "magorovy_labuti_pisne_200.xhtml",
             "id": 198,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -2627,7 +2628,7 @@
       "identifier": "urn:uuid:e687ed89-9d93-4291-985f-754e4e39c82b",
       "author": "Ivan Martin Jirous",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-17T12:43:41.106Z"
+      "modified": "2020-06-17T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -3906,6 +3907,6 @@
       "user": "books-are-next",
       "repo": "jirous-magorovy-labuti-pisne"
     },
-    "generatedAt": 1647521022047
+    "generatedAt": 1647853011749
   }
 }
