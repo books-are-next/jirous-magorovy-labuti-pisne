@@ -1,5 +1,5 @@
 ---
-title: I.Labuť sv. Huga
+title: I\.Labuť sv\. Huga
 contentType: prose
 ---
 
