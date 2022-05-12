@@ -51,7 +51,7 @@
             "filename": "magorovy_labuti_pisne_002.md",
             "xhtml": "magorovy_labuti_pisne_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -2619,8 +2619,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -2668,7 +2667,7 @@
         "xhtml": "magorovy_labuti_pisne_006.xhtml"
       },
       {
-        "titleSuggest": "I.Labuť sv. Huga",
+        "titleSuggest": "I\\.Labuť sv\\. Huga",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_007.md",
         "xhtml": "magorovy_labuti_pisne_007.xhtml"
@@ -3166,7 +3165,7 @@
         "xhtml": "magorovy_labuti_pisne_089.xhtml"
       },
       {
-        "titleSuggest": "II.Důms modrým beránkem",
+        "titleSuggest": "II\\.Důms modrým beránkem",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_091.md",
         "xhtml": "magorovy_labuti_pisne_091.xhtml"
@@ -3250,7 +3249,7 @@
         "xhtml": "magorovy_labuti_pisne_104.xhtml"
       },
       {
-        "titleSuggest": "III. MAGOR D’OR",
+        "titleSuggest": "III\\. MAGOR D’OR",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_105.md",
         "xhtml": "magorovy_labuti_pisne_105.xhtml"
@@ -3382,7 +3381,7 @@
         "xhtml": "magorovy_labuti_pisne_126.xhtml"
       },
       {
-        "titleSuggest": "IV.MY LOVERS ARE OVER THE OCEANS",
+        "titleSuggest": "IV\\.MY LOVERS ARE OVER THE OCEANS",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_127.md",
         "xhtml": "magorovy_labuti_pisne_127.xhtml"
@@ -3514,7 +3513,7 @@
         "xhtml": "magorovy_labuti_pisne_148.xhtml"
       },
       {
-        "titleSuggest": "V.Intermezzo",
+        "titleSuggest": "V\\.Intermezzo",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_149.md",
         "xhtml": "magorovy_labuti_pisne_149.xhtml"
@@ -3580,7 +3579,7 @@
         "xhtml": "magorovy_labuti_pisne_159.xhtml"
       },
       {
-        "titleSuggest": "VI.Hommage ­à Boris Savinkov",
+        "titleSuggest": "VI\\.Hommage ­à Boris Savinkov",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_160.md",
         "xhtml": "magorovy_labuti_pisne_160.xhtml"
@@ -3907,6 +3906,6 @@
       "user": "books-are-next",
       "repo": "jirous-magorovy-labuti-pisne"
     },
-    "generatedAt": 1647853011749
+    "generatedAt": 1652351498175
   }
 }

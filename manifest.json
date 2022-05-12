@@ -1,21 +1,220 @@
 {
-  "author": "Ivan Martin Jirous",
-  "contenttype": "poetry",
-  "identifier": "jirous-magorovy-labuti-pisne-b0c6ef6",
-  "languagecode": "cs",
-  "modified": "2022-03-15T15:46:51.114Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Magorovy labutí písně",
-  "revision": "b0c6ef6",
+  "author": "Ivan Martin Jirous",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "jirous-magorovy-labuti-pisne-1e23303",
+  "revision": "1e23303",
+  "readingOrder": [
+    "promo.html",
+    "magorovy_labuti_pisne_005.html",
+    "magorovy_labuti_pisne_006.html",
+    "magorovy_labuti_pisne_007.html",
+    "magorovy_labuti_pisne_008.html",
+    "magorovy_labuti_pisne_009.html",
+    "magorovy_labuti_pisne_010.html",
+    "magorovy_labuti_pisne_011.html",
+    "magorovy_labuti_pisne_012.html",
+    "magorovy_labuti_pisne_013.html",
+    "magorovy_labuti_pisne_014.html",
+    "magorovy_labuti_pisne_015.html",
+    "magorovy_labuti_pisne_016.html",
+    "magorovy_labuti_pisne_017.html",
+    "magorovy_labuti_pisne_018.html",
+    "magorovy_labuti_pisne_019.html",
+    "magorovy_labuti_pisne_020.html",
+    "magorovy_labuti_pisne_021.html",
+    "magorovy_labuti_pisne_022.html",
+    "magorovy_labuti_pisne_023.html",
+    "magorovy_labuti_pisne_024.html",
+    "magorovy_labuti_pisne_025.html",
+    "magorovy_labuti_pisne_026.html",
+    "magorovy_labuti_pisne_027.html",
+    "magorovy_labuti_pisne_028.html",
+    "magorovy_labuti_pisne_029.html",
+    "magorovy_labuti_pisne_030.html",
+    "magorovy_labuti_pisne_031.html",
+    "magorovy_labuti_pisne_032.html",
+    "magorovy_labuti_pisne_033.html",
+    "magorovy_labuti_pisne_034.html",
+    "magorovy_labuti_pisne_035.html",
+    "magorovy_labuti_pisne_036.html",
+    "magorovy_labuti_pisne_037.html",
+    "magorovy_labuti_pisne_038.html",
+    "magorovy_labuti_pisne_039.html",
+    "magorovy_labuti_pisne_040.html",
+    "magorovy_labuti_pisne_041.html",
+    "magorovy_labuti_pisne_042.html",
+    "magorovy_labuti_pisne_043.html",
+    "magorovy_labuti_pisne_044.html",
+    "magorovy_labuti_pisne_045.html",
+    "magorovy_labuti_pisne_046.html",
+    "magorovy_labuti_pisne_047.html",
+    "magorovy_labuti_pisne_048.html",
+    "magorovy_labuti_pisne_049.html",
+    "magorovy_labuti_pisne_050.html",
+    "magorovy_labuti_pisne_051.html",
+    "magorovy_labuti_pisne_052.html",
+    "magorovy_labuti_pisne_053.html",
+    "magorovy_labuti_pisne_054.html",
+    "magorovy_labuti_pisne_055.html",
+    "magorovy_labuti_pisne_056.html",
+    "magorovy_labuti_pisne_057.html",
+    "magorovy_labuti_pisne_058.html",
+    "magorovy_labuti_pisne_059.html",
+    "magorovy_labuti_pisne_060.html",
+    "magorovy_labuti_pisne_061.html",
+    "magorovy_labuti_pisne_062.html",
+    "magorovy_labuti_pisne_063.html",
+    "magorovy_labuti_pisne_064.html",
+    "magorovy_labuti_pisne_065.html",
+    "magorovy_labuti_pisne_066.html",
+    "magorovy_labuti_pisne_067.html",
+    "magorovy_labuti_pisne_068.html",
+    "magorovy_labuti_pisne_069.html",
+    "magorovy_labuti_pisne_070.html",
+    "magorovy_labuti_pisne_071.html",
+    "magorovy_labuti_pisne_072.html",
+    "magorovy_labuti_pisne_073.html",
+    "magorovy_labuti_pisne_074.html",
+    "magorovy_labuti_pisne_075.html",
+    "magorovy_labuti_pisne_076.html",
+    "magorovy_labuti_pisne_077.html",
+    "magorovy_labuti_pisne_078.html",
+    "magorovy_labuti_pisne_079.html",
+    "magorovy_labuti_pisne_080.html",
+    "magorovy_labuti_pisne_081.html",
+    "magorovy_labuti_pisne_082.html",
+    "magorovy_labuti_pisne_083.html",
+    "magorovy_labuti_pisne_084.html",
+    "magorovy_labuti_pisne_085.html",
+    "magorovy_labuti_pisne_086.html",
+    "magorovy_labuti_pisne_087.html",
+    "magorovy_labuti_pisne_088.html",
+    "magorovy_labuti_pisne_089.html",
+    "magorovy_labuti_pisne_091.html",
+    "magorovy_labuti_pisne_092.html",
+    "magorovy_labuti_pisne_093.html",
+    "magorovy_labuti_pisne_094.html",
+    "magorovy_labuti_pisne_095.html",
+    "magorovy_labuti_pisne_096.html",
+    "magorovy_labuti_pisne_097.html",
+    "magorovy_labuti_pisne_098.html",
+    "magorovy_labuti_pisne_099.html",
+    "magorovy_labuti_pisne_100.html",
+    "magorovy_labuti_pisne_101.html",
+    "magorovy_labuti_pisne_102.html",
+    "magorovy_labuti_pisne_103.html",
+    "magorovy_labuti_pisne_104.html",
+    "magorovy_labuti_pisne_105.html",
+    "magorovy_labuti_pisne_106.html",
+    "magorovy_labuti_pisne_107.html",
+    "magorovy_labuti_pisne_108.html",
+    "magorovy_labuti_pisne_109.html",
+    "magorovy_labuti_pisne_110.html",
+    "magorovy_labuti_pisne_111.html",
+    "magorovy_labuti_pisne_112.html",
+    "magorovy_labuti_pisne_113.html",
+    "magorovy_labuti_pisne_114.html",
+    "magorovy_labuti_pisne_115.html",
+    "magorovy_labuti_pisne_116.html",
+    "magorovy_labuti_pisne_117.html",
+    "magorovy_labuti_pisne_118.html",
+    "magorovy_labuti_pisne_119.html",
+    "magorovy_labuti_pisne_120.html",
+    "magorovy_labuti_pisne_121.html",
+    "magorovy_labuti_pisne_122.html",
+    "magorovy_labuti_pisne_123.html",
+    "magorovy_labuti_pisne_124.html",
+    "magorovy_labuti_pisne_125.html",
+    "magorovy_labuti_pisne_126.html",
+    "magorovy_labuti_pisne_127.html",
+    "magorovy_labuti_pisne_128.html",
+    "magorovy_labuti_pisne_129.html",
+    "magorovy_labuti_pisne_130.html",
+    "magorovy_labuti_pisne_131.html",
+    "magorovy_labuti_pisne_132.html",
+    "magorovy_labuti_pisne_133.html",
+    "magorovy_labuti_pisne_134.html",
+    "magorovy_labuti_pisne_135.html",
+    "magorovy_labuti_pisne_136.html",
+    "magorovy_labuti_pisne_137.html",
+    "magorovy_labuti_pisne_138.html",
+    "magorovy_labuti_pisne_139.html",
+    "magorovy_labuti_pisne_140.html",
+    "magorovy_labuti_pisne_141.html",
+    "magorovy_labuti_pisne_142.html",
+    "magorovy_labuti_pisne_143.html",
+    "magorovy_labuti_pisne_144.html",
+    "magorovy_labuti_pisne_145.html",
+    "magorovy_labuti_pisne_146.html",
+    "magorovy_labuti_pisne_147.html",
+    "magorovy_labuti_pisne_148.html",
+    "magorovy_labuti_pisne_149.html",
+    "magorovy_labuti_pisne_150.html",
+    "magorovy_labuti_pisne_151.html",
+    "magorovy_labuti_pisne_152.html",
+    "magorovy_labuti_pisne_153.html",
+    "magorovy_labuti_pisne_154.html",
+    "magorovy_labuti_pisne_155.html",
+    "magorovy_labuti_pisne_156.html",
+    "magorovy_labuti_pisne_157.html",
+    "magorovy_labuti_pisne_158.html",
+    "magorovy_labuti_pisne_159.html",
+    "magorovy_labuti_pisne_160.html",
+    "magorovy_labuti_pisne_161.html",
+    "magorovy_labuti_pisne_162.html",
+    "magorovy_labuti_pisne_163.html",
+    "magorovy_labuti_pisne_164.html",
+    "magorovy_labuti_pisne_165.html",
+    "magorovy_labuti_pisne_166.html",
+    "magorovy_labuti_pisne_167.html",
+    "magorovy_labuti_pisne_168.html",
+    "magorovy_labuti_pisne_169.html",
+    "magorovy_labuti_pisne_170.html",
+    "magorovy_labuti_pisne_171.html",
+    "magorovy_labuti_pisne_172.html",
+    "magorovy_labuti_pisne_173.html",
+    "magorovy_labuti_pisne_174.html",
+    "magorovy_labuti_pisne_175.html",
+    "magorovy_labuti_pisne_176.html",
+    "magorovy_labuti_pisne_177.html",
+    "magorovy_labuti_pisne_178.html",
+    "magorovy_labuti_pisne_179.html",
+    "magorovy_labuti_pisne_180.html",
+    "magorovy_labuti_pisne_181.html",
+    "magorovy_labuti_pisne_182.html",
+    "magorovy_labuti_pisne_183.html",
+    "magorovy_labuti_pisne_184.html",
+    "magorovy_labuti_pisne_185.html",
+    "magorovy_labuti_pisne_186.html",
+    "magorovy_labuti_pisne_187.html",
+    "magorovy_labuti_pisne_188.html",
+    "magorovy_labuti_pisne_189.html",
+    "magorovy_labuti_pisne_190.html",
+    "magorovy_labuti_pisne_191.html",
+    "magorovy_labuti_pisne_192.html",
+    "magorovy_labuti_pisne_193.html",
+    "magorovy_labuti_pisne_194.html",
+    "magorovy_labuti_pisne_195.html",
+    "magorovy_labuti_pisne_196.html",
+    "magorovy_labuti_pisne_197.html",
+    "magorovy_labuti_pisne_198.html",
+    "magorovy_labuti_pisne_199.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 21 2022 08:58:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647853099317
+    "date": "Thu May 12 2022 10:40:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352018160
   },
   "documents": [
     {
-      "title": "Magorovy labutí písně",
-      "file": "magorovy_labuti_pisne_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +222,7 @@
       "order": 0,
       "prev": null,
       "next": "magorovy_labuti_pisne_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Magorovy labutí písně",
@@ -41,7 +232,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "magorovy_labuti_pisne_002.html",
+      "prev": "promo.html",
       "next": "magorovy_labuti_pisne_006.html",
       "toc": [
         {
@@ -74,7 +265,7 @@
       ]
     },
     {
-      "title": "I.Labuť sv. Huga • Magorovy labutí písně",
+      "title": "I.Labuť sv. Huga",
       "file": "magorovy_labuti_pisne_007.html",
       "words": 3,
       "chars": 16,
@@ -94,7 +285,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_008.html",
       "words": 44,
       "chars": 222,
@@ -114,7 +305,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_009.html",
       "words": 37,
       "chars": 172,
@@ -134,7 +325,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_010.html",
       "words": 84,
       "chars": 460,
@@ -154,7 +345,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_011.html",
       "words": 19,
       "chars": 99,
@@ -174,7 +365,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_012.html",
       "words": 64,
       "chars": 305,
@@ -194,7 +385,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_013.html",
       "words": 42,
       "chars": 208,
@@ -214,7 +405,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_014.html",
       "words": 13,
       "chars": 46,
@@ -234,7 +425,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_015.html",
       "words": 31,
       "chars": 172,
@@ -254,7 +445,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_016.html",
       "words": 13,
       "chars": 59,
@@ -274,7 +465,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_017.html",
       "words": 29,
       "chars": 140,
@@ -294,7 +485,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_018.html",
       "words": 44,
       "chars": 232,
@@ -314,7 +505,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_019.html",
       "words": 26,
       "chars": 129,
@@ -334,7 +525,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_020.html",
       "words": 176,
       "chars": 899,
@@ -354,7 +545,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_021.html",
       "words": 22,
       "chars": 108,
@@ -374,7 +565,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_022.html",
       "words": 14,
       "chars": 57,
@@ -394,7 +585,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_023.html",
       "words": 25,
       "chars": 113,
@@ -414,7 +605,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_024.html",
       "words": 22,
       "chars": 104,
@@ -434,7 +625,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_025.html",
       "words": 39,
       "chars": 208,
@@ -454,7 +645,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_026.html",
       "words": 12,
       "chars": 59,
@@ -474,7 +665,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_027.html",
       "words": 29,
       "chars": 147,
@@ -494,7 +685,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_028.html",
       "words": 52,
       "chars": 289,
@@ -514,7 +705,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_029.html",
       "words": 17,
       "chars": 87,
@@ -534,7 +725,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_030.html",
       "words": 11,
       "chars": 55,
@@ -554,7 +745,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_031.html",
       "words": 39,
       "chars": 192,
@@ -574,7 +765,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_032.html",
       "words": 48,
       "chars": 241,
@@ -594,7 +785,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_033.html",
       "words": 47,
       "chars": 239,
@@ -614,7 +805,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_034.html",
       "words": 59,
       "chars": 294,
@@ -634,7 +825,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_035.html",
       "words": 18,
       "chars": 79,
@@ -654,7 +845,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_036.html",
       "words": 23,
       "chars": 113,
@@ -674,7 +865,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_037.html",
       "words": 40,
       "chars": 185,
@@ -694,7 +885,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_038.html",
       "words": 17,
       "chars": 69,
@@ -714,7 +905,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_039.html",
       "words": 30,
       "chars": 144,
@@ -734,7 +925,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_040.html",
       "words": 30,
       "chars": 150,
@@ -754,7 +945,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_041.html",
       "words": 24,
       "chars": 121,
@@ -774,7 +965,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_042.html",
       "words": 15,
       "chars": 64,
@@ -794,7 +985,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_043.html",
       "words": 52,
       "chars": 248,
@@ -814,7 +1005,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_044.html",
       "words": 35,
       "chars": 168,
@@ -834,7 +1025,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_045.html",
       "words": 27,
       "chars": 129,
@@ -854,7 +1045,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_046.html",
       "words": 35,
       "chars": 168,
@@ -874,7 +1065,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_047.html",
       "words": 21,
       "chars": 110,
@@ -894,7 +1085,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_048.html",
       "words": 30,
       "chars": 150,
@@ -914,7 +1105,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_049.html",
       "words": 74,
       "chars": 405,
@@ -934,7 +1125,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_050.html",
       "words": 17,
       "chars": 73,
@@ -954,7 +1145,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_051.html",
       "words": 24,
       "chars": 108,
@@ -974,7 +1165,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_052.html",
       "words": 40,
       "chars": 209,
@@ -994,7 +1185,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_053.html",
       "words": 24,
       "chars": 100,
@@ -1014,7 +1205,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_054.html",
       "words": 23,
       "chars": 108,
@@ -1034,7 +1225,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_055.html",
       "words": 24,
       "chars": 108,
@@ -1054,7 +1245,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_056.html",
       "words": 26,
       "chars": 119,
@@ -1074,7 +1265,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_057.html",
       "words": 12,
       "chars": 54,
@@ -1094,7 +1285,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_058.html",
       "words": 66,
       "chars": 360,
@@ -1114,7 +1305,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_059.html",
       "words": 23,
       "chars": 98,
@@ -1134,7 +1325,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_060.html",
       "words": 12,
       "chars": 52,
@@ -1154,7 +1345,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_061.html",
       "words": 21,
       "chars": 107,
@@ -1174,7 +1365,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_062.html",
       "words": 42,
       "chars": 204,
@@ -1194,7 +1385,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_063.html",
       "words": 33,
       "chars": 186,
@@ -1214,7 +1405,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_064.html",
       "words": 34,
       "chars": 180,
@@ -1234,7 +1425,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_065.html",
       "words": 25,
       "chars": 127,
@@ -1254,7 +1445,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_066.html",
       "words": 12,
       "chars": 54,
@@ -1274,7 +1465,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_067.html",
       "words": 31,
       "chars": 158,
@@ -1294,7 +1485,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_068.html",
       "words": 34,
       "chars": 182,
@@ -1314,7 +1505,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_069.html",
       "words": 25,
       "chars": 114,
@@ -1334,7 +1525,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_070.html",
       "words": 31,
       "chars": 150,
@@ -1354,7 +1545,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_071.html",
       "words": 12,
       "chars": 52,
@@ -1374,7 +1565,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_072.html",
       "words": 32,
       "chars": 158,
@@ -1394,7 +1585,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_073.html",
       "words": 23,
       "chars": 106,
@@ -1414,7 +1605,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_074.html",
       "words": 37,
       "chars": 194,
@@ -1434,7 +1625,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_075.html",
       "words": 24,
       "chars": 121,
@@ -1454,7 +1645,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_076.html",
       "words": 14,
       "chars": 74,
@@ -1474,7 +1665,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_077.html",
       "words": 21,
       "chars": 112,
@@ -1494,7 +1685,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_078.html",
       "words": 27,
       "chars": 162,
@@ -1514,7 +1705,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_079.html",
       "words": 39,
       "chars": 181,
@@ -1534,7 +1725,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_080.html",
       "words": 23,
       "chars": 106,
@@ -1554,7 +1745,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_081.html",
       "words": 20,
       "chars": 99,
@@ -1574,7 +1765,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_082.html",
       "words": 42,
       "chars": 209,
@@ -1594,7 +1785,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_083.html",
       "words": 21,
       "chars": 101,
@@ -1614,7 +1805,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_084.html",
       "words": 14,
       "chars": 60,
@@ -1634,7 +1825,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_085.html",
       "words": 60,
       "chars": 318,
@@ -1654,7 +1845,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_086.html",
       "words": 12,
       "chars": 54,
@@ -1674,7 +1865,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_087.html",
       "words": 29,
       "chars": 154,
@@ -1694,7 +1885,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_088.html",
       "words": 35,
       "chars": 171,
@@ -1714,7 +1905,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_089.html",
       "words": 29,
       "chars": 139,
@@ -1734,7 +1925,7 @@
       ]
     },
     {
-      "title": "II.Důms modrým beránkem • Magorovy labutí písně",
+      "title": "II.Důms modrým beránkem",
       "file": "magorovy_labuti_pisne_091.html",
       "words": 3,
       "chars": 23,
@@ -1754,7 +1945,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_092.html",
       "words": 30,
       "chars": 146,
@@ -1774,7 +1965,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_093.html",
       "words": 119,
       "chars": 576,
@@ -1794,7 +1985,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_094.html",
       "words": 80,
       "chars": 438,
@@ -1814,7 +2005,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_095.html",
       "words": 66,
       "chars": 341,
@@ -1834,7 +2025,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_096.html",
       "words": 26,
       "chars": 116,
@@ -1854,7 +2045,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_097.html",
       "words": 21,
       "chars": 89,
@@ -1874,7 +2065,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_098.html",
       "words": 76,
       "chars": 440,
@@ -1894,7 +2085,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_099.html",
       "words": 55,
       "chars": 294,
@@ -1914,7 +2105,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_100.html",
       "words": 19,
       "chars": 108,
@@ -1934,7 +2125,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_101.html",
       "words": 85,
       "chars": 474,
@@ -1954,7 +2145,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_102.html",
       "words": 63,
       "chars": 333,
@@ -1974,7 +2165,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_103.html",
       "words": 22,
       "chars": 102,
@@ -1994,7 +2185,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_104.html",
       "words": 83,
       "chars": 423,
@@ -2014,7 +2205,7 @@
       ]
     },
     {
-      "title": "III. MAGOR D’OR • Magorovy labutí písně",
+      "title": "III. MAGOR D’OR",
       "file": "magorovy_labuti_pisne_105.html",
       "words": 3,
       "chars": 15,
@@ -2054,7 +2245,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_107.html",
       "words": 16,
       "chars": 83,
@@ -2074,7 +2265,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_108.html",
       "words": 28,
       "chars": 121,
@@ -2094,7 +2285,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_109.html",
       "words": 24,
       "chars": 119,
@@ -2114,7 +2305,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_110.html",
       "words": 18,
       "chars": 90,
@@ -2134,7 +2325,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_111.html",
       "words": 40,
       "chars": 206,
@@ -2154,7 +2345,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_112.html",
       "words": 55,
       "chars": 296,
@@ -2174,7 +2365,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_113.html",
       "words": 22,
       "chars": 110,
@@ -2194,7 +2385,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_114.html",
       "words": 50,
       "chars": 254,
@@ -2214,7 +2405,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_115.html",
       "words": 34,
       "chars": 171,
@@ -2234,7 +2425,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_116.html",
       "words": 23,
       "chars": 116,
@@ -2254,7 +2445,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_117.html",
       "words": 36,
       "chars": 196,
@@ -2274,7 +2465,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_118.html",
       "words": 53,
       "chars": 276,
@@ -2294,7 +2485,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_119.html",
       "words": 51,
       "chars": 325,
@@ -2314,7 +2505,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_120.html",
       "words": 46,
       "chars": 224,
@@ -2334,7 +2525,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_121.html",
       "words": 61,
       "chars": 342,
@@ -2354,7 +2545,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_122.html",
       "words": 30,
       "chars": 153,
@@ -2374,7 +2565,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_123.html",
       "words": 23,
       "chars": 107,
@@ -2394,7 +2585,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_124.html",
       "words": 79,
       "chars": 415,
@@ -2414,7 +2605,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_125.html",
       "words": 13,
       "chars": 59,
@@ -2434,7 +2625,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_126.html",
       "words": 30,
       "chars": 142,
@@ -2454,7 +2645,7 @@
       ]
     },
     {
-      "title": "IV.MY LOVERS ARE OVER THE OCEANS • Magorovy labutí písně",
+      "title": "IV.MY LOVERS ARE OVER THE OCEANS",
       "file": "magorovy_labuti_pisne_127.html",
       "words": 6,
       "chars": 32,
@@ -2494,7 +2685,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_129.html",
       "words": 23,
       "chars": 104,
@@ -2514,7 +2705,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_130.html",
       "words": 63,
       "chars": 310,
@@ -2534,7 +2725,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_131.html",
       "words": 24,
       "chars": 112,
@@ -2554,7 +2745,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_132.html",
       "words": 37,
       "chars": 198,
@@ -2574,7 +2765,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_133.html",
       "words": 12,
       "chars": 62,
@@ -2594,7 +2785,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_134.html",
       "words": 52,
       "chars": 267,
@@ -2614,7 +2805,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_135.html",
       "words": 48,
       "chars": 223,
@@ -2634,7 +2825,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_136.html",
       "words": 48,
       "chars": 253,
@@ -2654,7 +2845,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_137.html",
       "words": 65,
       "chars": 338,
@@ -2674,7 +2865,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_138.html",
       "words": 16,
       "chars": 73,
@@ -2694,7 +2885,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_139.html",
       "words": 48,
       "chars": 241,
@@ -2714,7 +2905,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_140.html",
       "words": 34,
       "chars": 195,
@@ -2734,7 +2925,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_141.html",
       "words": 88,
       "chars": 436,
@@ -2754,7 +2945,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_142.html",
       "words": 21,
       "chars": 104,
@@ -2774,7 +2965,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_143.html",
       "words": 36,
       "chars": 169,
@@ -2794,7 +2985,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_144.html",
       "words": 39,
       "chars": 190,
@@ -2814,7 +3005,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_145.html",
       "words": 34,
       "chars": 165,
@@ -2834,7 +3025,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_146.html",
       "words": 27,
       "chars": 131,
@@ -2854,7 +3045,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_147.html",
       "words": 67,
       "chars": 376,
@@ -2874,7 +3065,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_148.html",
       "words": 41,
       "chars": 205,
@@ -2894,7 +3085,7 @@
       ]
     },
     {
-      "title": "V.Intermezzo • Magorovy labutí písně",
+      "title": "V.Intermezzo",
       "file": "magorovy_labuti_pisne_149.html",
       "words": 1,
       "chars": 12,
@@ -2934,7 +3125,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_151.html",
       "words": 57,
       "chars": 331,
@@ -2954,7 +3145,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_152.html",
       "words": 65,
       "chars": 368,
@@ -2974,7 +3165,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_153.html",
       "words": 21,
       "chars": 102,
@@ -2994,7 +3185,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_154.html",
       "words": 36,
       "chars": 200,
@@ -3014,7 +3205,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_155.html",
       "words": 61,
       "chars": 315,
@@ -3034,7 +3225,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_156.html",
       "words": 49,
       "chars": 272,
@@ -3054,7 +3245,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_157.html",
       "words": 120,
       "chars": 589,
@@ -3074,7 +3265,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_158.html",
       "words": 42,
       "chars": 244,
@@ -3094,7 +3285,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_159.html",
       "words": 63,
       "chars": 312,
@@ -3114,7 +3305,7 @@
       ]
     },
     {
-      "title": "VI.Hommage ­à Boris Savinkov • Magorovy labutí písně",
+      "title": "VI.Hommage ­à Boris Savinkov",
       "file": "magorovy_labuti_pisne_160.html",
       "words": 4,
       "chars": 28,
@@ -3134,7 +3325,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_161.html",
       "words": 32,
       "chars": 161,
@@ -3154,7 +3345,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_162.html",
       "words": 17,
       "chars": 97,
@@ -3174,7 +3365,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_163.html",
       "words": 18,
       "chars": 93,
@@ -3194,7 +3385,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_164.html",
       "words": 39,
       "chars": 188,
@@ -3214,7 +3405,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_165.html",
       "words": 25,
       "chars": 120,
@@ -3234,7 +3425,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_166.html",
       "words": 45,
       "chars": 254,
@@ -3254,7 +3445,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_167.html",
       "words": 16,
       "chars": 79,
@@ -3274,7 +3465,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_168.html",
       "words": 26,
       "chars": 122,
@@ -3294,7 +3485,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_169.html",
       "words": 33,
       "chars": 147,
@@ -3314,7 +3505,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_170.html",
       "words": 30,
       "chars": 138,
@@ -3334,7 +3525,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_171.html",
       "words": 24,
       "chars": 105,
@@ -3354,7 +3545,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_172.html",
       "words": 20,
       "chars": 99,
@@ -3374,7 +3565,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_173.html",
       "words": 33,
       "chars": 161,
@@ -3394,7 +3585,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_174.html",
       "words": 44,
       "chars": 251,
@@ -3414,7 +3605,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_175.html",
       "words": 18,
       "chars": 95,
@@ -3434,7 +3625,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_176.html",
       "words": 20,
       "chars": 103,
@@ -3454,7 +3645,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_177.html",
       "words": 34,
       "chars": 151,
@@ -3474,7 +3665,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_178.html",
       "words": 28,
       "chars": 161,
@@ -3494,7 +3685,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_179.html",
       "words": 37,
       "chars": 188,
@@ -3514,7 +3705,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_180.html",
       "words": 25,
       "chars": 125,
@@ -3534,7 +3725,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_181.html",
       "words": 22,
       "chars": 101,
@@ -3554,7 +3745,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_182.html",
       "words": 19,
       "chars": 91,
@@ -3574,7 +3765,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_183.html",
       "words": 57,
       "chars": 304,
@@ -3594,7 +3785,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_184.html",
       "words": 27,
       "chars": 144,
@@ -3614,7 +3805,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_185.html",
       "words": 12,
       "chars": 45,
@@ -3634,7 +3825,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_186.html",
       "words": 26,
       "chars": 148,
@@ -3654,7 +3845,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_187.html",
       "words": 43,
       "chars": 226,
@@ -3674,7 +3865,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_188.html",
       "words": 36,
       "chars": 194,
@@ -3694,7 +3885,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_189.html",
       "words": 24,
       "chars": 138,
@@ -3714,7 +3905,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_190.html",
       "words": 60,
       "chars": 334,
@@ -3734,7 +3925,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_191.html",
       "words": 62,
       "chars": 333,
@@ -3754,7 +3945,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_192.html",
       "words": 24,
       "chars": 129,
@@ -3774,7 +3965,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_193.html",
       "words": 40,
       "chars": 211,
@@ -3794,7 +3985,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_194.html",
       "words": 33,
       "chars": 174,
@@ -3814,7 +4005,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_195.html",
       "words": 53,
       "chars": 251,
@@ -3834,7 +4025,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_196.html",
       "words": 39,
       "chars": 238,
@@ -3854,7 +4045,7 @@
       ]
     },
     {
-      "title": "– – –  • Magorovy labutí písně",
+      "title": "– – –",
       "file": "magorovy_labuti_pisne_197.html",
       "words": 27,
       "chars": 120,
@@ -3874,7 +4065,7 @@
       ]
     },
     {
-      "title": "Komentáře k jednotlivým textům • Magorovy labutí písně",
+      "title": "Komentáře k jednotlivým textům",
       "file": "magorovy_labuti_pisne_198.html",
       "words": 1512,
       "chars": 8843,
@@ -3894,7 +4085,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Magorovy labutí písně",
+      "title": "Ediční poznámka",
       "file": "magorovy_labuti_pisne_199.html",
       "words": 96,
       "chars": 700,
@@ -3914,11 +4105,11 @@
       ]
     },
     {
-      "title": "Tiráž • Magorovy labutí písně",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 148,
-      "chars": 960,
-      "ideas": 21,
+      "words": 120,
+      "chars": 769,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "magorovy_labuti_pisne_199.html",
@@ -3929,24 +4120,16 @@
           "level": 1,
           "name": "Tiráž",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Magorovy Labutí písně",
-              "id": "magorovy-labutí-písně",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 8408,
-      "chars": 44444,
-      "ideas": 1685
+      "words": 8380,
+      "chars": 44253,
+      "ideas": 1678
     },
     "chapters": {
       "words": 8253,

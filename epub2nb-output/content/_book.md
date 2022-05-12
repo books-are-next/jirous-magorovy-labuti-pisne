@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-15T15:46:51.114Z'
   publisherShort: mkp
 readingOrder:
-  - magorovy_labuti_pisne_002.html
+  - promo.html
   - magorovy_labuti_pisne_005.html
   - magorovy_labuti_pisne_006.html
   - magorovy_labuti_pisne_007.html

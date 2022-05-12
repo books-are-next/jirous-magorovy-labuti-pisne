@@ -1,5 +1,5 @@
 ---
-title: "II.Důms\_modrým beránkem"
+title: "II\\.Důms\_modrým beránkem"
 contentType: prose
 ---
 
