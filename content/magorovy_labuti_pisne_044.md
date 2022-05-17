@@ -1,7 +1,7 @@
 ---
 title: '– – – '
 hiddenTitle: true
-contentType: prose
+contentType: poetry
 ---
 
 Když vypustí nás z našich cel

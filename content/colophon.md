@@ -8,7 +8,7 @@ Edice Čeští básníci 20. století
 Redakce Markéta Teuchnerová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
+1. vydání z 17. 5. 2022.
 
 ***
 
@@ -22,5 +22,9 @@ Text díla (Ivan Martin Jirous: Magorovy labutí písně), publikovaného Městs
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko.
 
+  
+
+
+  
 
 ![Obraz14571.PNG](./resources/obraz14571_fmt.png)

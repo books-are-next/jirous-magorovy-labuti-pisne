@@ -1,6 +1,6 @@
 ---
 title: V\.Intermezzo
-contentType: prose
+contentType: poetry
 ---
 
 
