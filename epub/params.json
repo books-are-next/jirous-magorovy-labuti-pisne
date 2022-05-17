@@ -20,11 +20,11 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "MLP-text-bez1radku MLP2-text-bez1radku ",
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "",
+      "em": "Z-kladn--text-kurz-va-nova-str Z-kladn--text-kurz-va ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -94,8 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_006.md",
@@ -1393,8 +1393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_107.md",
@@ -1679,8 +1679,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_129.md",
@@ -1965,8 +1965,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_151.md",
@@ -2628,7 +2628,7 @@
       "identifier": "urn:uuid:e687ed89-9d93-4291-985f-754e4e39c82b",
       "author": "Ivan Martin Jirous",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-17T12:22:11.773Z"
+      "modified": "2020-06-17T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -2668,7 +2668,7 @@
         "xhtml": "magorovy_labuti_pisne_006.xhtml"
       },
       {
-        "titleSuggest": "I.Labuť sv. Huga",
+        "titleSuggest": "I\\.Labuť sv\\. Huga",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_007.md",
         "xhtml": "magorovy_labuti_pisne_007.xhtml"
@@ -3166,7 +3166,7 @@
         "xhtml": "magorovy_labuti_pisne_089.xhtml"
       },
       {
-        "titleSuggest": "II.Důms modrým beránkem",
+        "titleSuggest": "II\\.Důms modrým beránkem",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_091.md",
         "xhtml": "magorovy_labuti_pisne_091.xhtml"
@@ -3250,7 +3250,7 @@
         "xhtml": "magorovy_labuti_pisne_104.xhtml"
       },
       {
-        "titleSuggest": "III. MAGOR D’OR",
+        "titleSuggest": "III\\. MAGOR D’OR",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_105.md",
         "xhtml": "magorovy_labuti_pisne_105.xhtml"
@@ -3382,7 +3382,7 @@
         "xhtml": "magorovy_labuti_pisne_126.xhtml"
       },
       {
-        "titleSuggest": "IV.MY LOVERS ARE OVER THE OCEANS",
+        "titleSuggest": "IV\\.MY LOVERS ARE OVER THE OCEANS",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_127.md",
         "xhtml": "magorovy_labuti_pisne_127.xhtml"
@@ -3514,7 +3514,7 @@
         "xhtml": "magorovy_labuti_pisne_148.xhtml"
       },
       {
-        "titleSuggest": "V.Intermezzo",
+        "titleSuggest": "V\\.Intermezzo",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_149.md",
         "xhtml": "magorovy_labuti_pisne_149.xhtml"
@@ -3580,7 +3580,7 @@
         "xhtml": "magorovy_labuti_pisne_159.xhtml"
       },
       {
-        "titleSuggest": "VI.Hommage ­à Boris Savinkov",
+        "titleSuggest": "VI\\.Hommage ­à Boris Savinkov",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_160.md",
         "xhtml": "magorovy_labuti_pisne_160.xhtml"
@@ -3808,7 +3808,7 @@
         "xhtml": "magorovy_labuti_pisne_197.xhtml"
       },
       {
-        "titleSuggest": "Komentáře k jednotlivým textům",
+        "titleSuggest": "Komentáře k jednotlivým textům",
         "subtitleSuggest": "",
         "filename": "magorovy_labuti_pisne_198.md",
         "xhtml": "magorovy_labuti_pisne_198.xhtml"
@@ -3907,6 +3907,6 @@
       "user": "books-are-next",
       "repo": "jirous-magorovy-labuti-pisne"
     },
-    "generatedAt": 1647519732767
+    "generatedAt": 1652351498175
   }
 }
