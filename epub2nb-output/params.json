@@ -20,11 +20,11 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "MLP-text-bez1radku MLP2-text-bez1radku ",
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "",
+      "em": "Z-kladn--text-kurz-va-nova-str Z-kladn--text-kurz-va ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -94,8 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_006.md",
@@ -1393,8 +1393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_107.md",
@@ -1679,8 +1679,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_129.md",
@@ -1965,8 +1965,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "magorovy_labuti_pisne_151.md",
@@ -3906,6 +3906,6 @@
       "user": "books-are-next",
       "repo": "jirous-magorovy-labuti-pisne"
     },
-    "generatedAt": 1652351498175
+    "generatedAt": 1652799064492
   }
 }

@@ -1,9 +1,9 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
-Což nutně když se básník dusí
+_Což nutně když se básník dusí_
 
 exodus následovat musí?
 
