@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Jdou volit cestou z kostela
 
 na mši jdou přímo z voleb
@@ -15,3 +17,5 @@ a k čemu hora Oreb?
 Ach svatý Jene Husi
 
 jak se mi křesťanstvo hnusí!
+
+</section>

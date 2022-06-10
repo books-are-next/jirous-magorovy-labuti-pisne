@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 V neštěstí se vždycky hbitě
 
 vracím k religiozitě
@@ -75,3 +77,5 @@ Modlím se vždycky v neštěstí
 Kamenným světcům na tvářích
 
 jemný déšť jemně šelestí
+
+</section>

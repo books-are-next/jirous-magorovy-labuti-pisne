@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Důstojníku,
 
 hlavně abys
@@ -17,3 +19,5 @@ Neboj se, řek Duchač,
 Hned pod schody z půdy
 
 strčím mu chebule!
+
+</section>

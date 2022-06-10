@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Anděl smrti si prohlíží
 
 skvrny na veřejích
@@ -27,3 +29,5 @@ a z mraku jemně mží
 Někdo chce štolu políbit
 
 v okénku pod růží
+
+</section>

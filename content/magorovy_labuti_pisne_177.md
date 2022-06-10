@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Kdysi jsi báseň psal
 
 o koni o ikoně
@@ -17,3 +19,5 @@ Pryč s ideály mládí!
 Teď Tvoji koně pádí – ech –
 
 v komunistických Květech
+
+</section>

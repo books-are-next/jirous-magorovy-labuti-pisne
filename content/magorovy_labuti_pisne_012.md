@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Víš ty Bože vůbec o mně,
 
 žes mě zavřel v tomhle domě?
@@ -27,3 +29,5 @@ pokorně Tě prosím Pane:
 Už mě nenech vězet marně
 
 v Leviatanově tlamě.
+
+</section>

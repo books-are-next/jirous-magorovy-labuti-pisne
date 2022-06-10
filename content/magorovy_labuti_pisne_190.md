@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Inženýr Jirous
 
 chtěl si změnit jméno,
@@ -33,3 +35,5 @@ Tolik trampoty selského rodu
 původem z Rybovy Lhoty,
 
 Jirousů ze Želče.
+
+</section>

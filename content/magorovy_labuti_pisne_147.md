@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Moře Ti ostrov odplavuje
 
 v půlnoční Suécii
@@ -33,3 +35,5 @@ v Čechách kde suicidálně žiji
 moře Ti ostrov odplavuje
 
 v půlnoční Suécii
+
+</section>

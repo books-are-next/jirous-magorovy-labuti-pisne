@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Na hřbitov v Hrochově Týnci
 
 nesmějí cizozemci
@@ -43,3 +45,5 @@ jen v Týnci ne jen v Týnci ne
 leda po letech v rodnou hlínu
 
 lehne si inu jak Martinů
+
+</section>

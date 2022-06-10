@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Bílé pivoňky začly kvést
 
 má svatý Hugo sedm hvězd
@@ -29,3 +31,5 @@ má svatý Hugo sedm hvězd
 pivoňky bílé začaly kvést
 
 a rosa chladná na nich
+
+</section>

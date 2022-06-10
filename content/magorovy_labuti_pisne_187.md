@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Líbánky vzaly konec zlý.
 
 Svatbu jsme měli u Lojzy
@@ -23,3 +25,5 @@ Revolucionáře
 jste si vzala přec,
 
 tak netvařte se tak vyděšeně!
+
+</section>

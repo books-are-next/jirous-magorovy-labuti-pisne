@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Dneska poprvé pokušení
 
 proniklo mi až kostní dření
@@ -23,3 +25,5 @@ a málem duši svou
 dal jsem jim ke kremaci
 
 20\. května 1983
+
+</section>

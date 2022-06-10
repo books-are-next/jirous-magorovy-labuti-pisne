@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Vznesl se zástup andělů
 
 nad zemi Angleterre
@@ -27,3 +29,5 @@ slzami žalu obmyta
 to z očí svaté Cecilie
 
 zármutek na zemi se lije
+
+</section>

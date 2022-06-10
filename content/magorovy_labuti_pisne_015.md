@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Z téhle noci mě nezachrání
 
 ani kohoutí kokrhání
@@ -17,3 +19,5 @@ rozezněly se ostrým tónem
 mlaskají pederastů ústa
 
 Venku za mříží tma je hustá
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Když uléhají beránky
 
 za obzor na západ,
@@ -35,3 +37,5 @@ rosou a milostí.
 Svěceným zrním ptáky v hnízdech
 
 andělé pohostí.
+
+</section>

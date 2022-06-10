@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Kamení sv. Štěpánovi
 
 nadlehčovala láska.
@@ -21,3 +23,5 @@ V snách se Tě cosi dotklo?
 Podíval jsem se z okna.
 
 V ambitu bílá tma.
+
+</section>

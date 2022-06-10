@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Za plynem jako za ropou
 
 strach rozlévá se Evropou
@@ -19,3 +21,5 @@ na výrok myslím Jaspersův
 na bonmot
 
 lieber tot als rot
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Viď tak se uzel za uzlem
 
 nakonec srovnal v síť
@@ -21,3 +23,5 @@ Pověz kam bych se schoval
 až přijdeš misky vah svých hříšníky naplnit
 
 20\. května 1983
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Za údolími lesy
 
 jinde než kde jsi nejsi
@@ -35,3 +37,5 @@ blíž než tam kde teď pro mne jsi
 lodě plují a vory
 
 memento mori
+
+</section>

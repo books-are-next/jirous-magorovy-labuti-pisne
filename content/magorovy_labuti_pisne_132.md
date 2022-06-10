@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Tak po přátelích v cizině
 
 pozvolna ztrácí se mi stopa
@@ -19,3 +21,5 @@ sedí u láhve whisky
 Nám ve vývěvě pod zvonem
 
 promodrávají pysky
+
+</section>

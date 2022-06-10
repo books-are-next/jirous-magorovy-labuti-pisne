@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Na průčelí cygnus olor
 
 uvnitř hrůza je a horor
@@ -15,3 +17,5 @@ střeží děsuplné lůno
 Vykuchaný jako prase
 
 skví se tady kostel v base
+
+</section>

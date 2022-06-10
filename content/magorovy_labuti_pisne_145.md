@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 I zavál Janu zoufalou
 
 vítr do města Buffalo
@@ -17,3 +19,5 @@ Neb manželé i milenci
 po světě jako brabenci
 
 se rozlezli v těch dobách zlých
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Začal jsem s André Bretonem
 
 snít o skleněném domě
@@ -19,3 +21,5 @@ křičí já svojí trýzně
 nikdy už asi se nezbavím
 
 světový surrealisme!
+
+</section>

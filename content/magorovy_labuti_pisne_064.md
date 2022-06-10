@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Mí spolužáci
 
 naplno vědou žijí.
@@ -19,3 +21,5 @@ však já se s vámi srovnám!
 Mříží geometrii
 
 po léta pilně zkoumám.
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Okolo Panny Marie
 
 v závějích bílé hostie.
@@ -35,3 +37,5 @@ Pán Bůh nás nenechá věčně plakat.
 Nad sochou svaté Starosty
 
 rozkvétá bíle akát.
+
+</section>

@@ -3,6 +3,8 @@ title: "Komentáře k\_jednotlivým textům"
 contentType: poetry
 ---
 
+<section>
+
 _xxx (Jak dlouho Bože ještě snesu)_
 
 Jde o jediný Jirousův text, který zhudebnili The Plastic People of the Universe (v roce 2006, hudba od Joe Karafiáta). Skladba vyšla na CD Maska za maskou / The Mask Behind the Mask pod názvem Magorův šém (Guerilla Records, Louny 2009);
@@ -138,3 +140,5 @@ _xxx (Už v dětství jsem byl trochu jiný)_
 MS1, 2, 3 = 1. (1998), 2. (2007), 3. (2015) vydání Magorovy summy
 
 SSJČ = Slovník spisovného jazyka českého
+
+</section>

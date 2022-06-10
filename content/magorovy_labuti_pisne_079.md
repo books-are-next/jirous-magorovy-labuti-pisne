@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Den po Panny Marie Nanebevzetí
 
 myslím na Tebe jak Ti je
@@ -19,3 +21,5 @@ jen večer asi
 jak včera na javor v ambitu
 
 přiletí konipasi
+
+</section>

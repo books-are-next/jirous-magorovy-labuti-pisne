@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Už Petra Brodského zbavili souhlasu
 
 že moji manželku dovezl před basu
@@ -15,3 +17,5 @@ Nesmí už statut mít duchovní osoby
 Světská moc dala mu zahulit citelně
 
 o pekle může snít topí teď v kotelně
+
+</section>

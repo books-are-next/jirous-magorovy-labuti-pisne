@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Na chvíli jednorožec zdržel se u studánky,
 
 královna Gwendolyna v habrovém loubí
@@ -27,3 +29,5 @@ a všechno bylo jak dřív:
 mýtina prázdná,
 
 na vodě tkvěl vychladlý odraz habroví.
+
+</section>

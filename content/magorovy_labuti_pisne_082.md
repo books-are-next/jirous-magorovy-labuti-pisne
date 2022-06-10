@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Už vědět nechtějí
 
 holčičky z Francie
@@ -25,3 +27,5 @@ kdeže loňský sníh
 teď francouzská skáče láska
 
 po jiných zajících
+
+</section>

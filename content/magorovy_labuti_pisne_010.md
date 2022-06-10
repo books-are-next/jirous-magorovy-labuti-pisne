@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Monotónní můj itinerář posledních let.
 
 Jako bych už jen s eskortami
@@ -39,3 +41,5 @@ který na duši Jirka Tichý
 hodil mi jako horké cíchy.
 
 Nepomodlit se byl by hřích.
+
+</section>

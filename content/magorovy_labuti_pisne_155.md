@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 V mrazu se chvěje ztuhlý lůj
 
 bílý je dvůr i bílý hnůj
@@ -27,3 +29,5 @@ jen prach na prázdných policích
 trochu se zdvih jen trochu zdvih
 
 jak v polích větrem sníh
+
+</section>

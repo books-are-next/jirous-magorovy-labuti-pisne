@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Hora svlačcem omotaná
 
 řeka pláčem naplakaná
@@ -31,3 +33,5 @@ nebe oblakem zahalené
 A oči hrůzou vytřeštěné
 
 hořící nápis přečtou v stěně
+
+</section>

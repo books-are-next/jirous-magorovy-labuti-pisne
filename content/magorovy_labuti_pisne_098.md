@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 V říjnu pojedeš do Vydří.
 
 V zářivém podzimním tom dni
@@ -43,3 +45,5 @@ Modli se v Kostelním Vydří.
 Popros, ať svatá Panna
 
 Leviatana zmaří.
+
+</section>

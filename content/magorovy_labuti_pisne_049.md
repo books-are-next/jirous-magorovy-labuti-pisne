@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Týdny měsíce léta jdou
 
 nad zhanobenou apsidou
@@ -35,3 +37,5 @@ Jeptiška s oříškem vzkázala nám,
 Jako když tenkrát v stínu modrém
 
 přitiskli jsme se k sobě.
+
+</section>

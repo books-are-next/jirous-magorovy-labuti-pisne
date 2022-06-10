@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Na nebi světlo nevídané
 
 nad kmeny oliv luna plane
@@ -21,3 +23,5 @@ Spí apoštoli v Getsemaně
 Kristus sám usmívá se na ně
 
 do ticha tiše zazní Amen
+
+</section>

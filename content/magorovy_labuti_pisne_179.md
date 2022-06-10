@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Podivně odešel básník Holan
 
 na státní útraty pochován
@@ -17,3 +19,5 @@ František Kriegel a navíc – ach –
 šakaly z hrobu vyhrabán
 
 na Olšanách Jan Palach
+
+</section>

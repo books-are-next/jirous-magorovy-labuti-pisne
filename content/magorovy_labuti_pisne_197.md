@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Nad dvěma slunci
 
 třetí vzešlo
@@ -15,3 +17,5 @@ Bez tebe byl bych bez poetiky
 seděl jak vůl
 
 a lepil jen pytlíky
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Rorate coeli desuper,
 
 andělských slyším šustot per,
@@ -33,3 +35,5 @@ jako to děláš s každým dnem,
 v modlitbě vděčné zůstanem
 
 před úsvitem.
+
+</section>

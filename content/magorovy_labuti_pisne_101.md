@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Ve vykropeném domečku
 
 svěcenou vodou
@@ -51,3 +53,5 @@ Náruči jeho ochranné
 v pokoře vás tři
 
 svěřím.
+
+</section>

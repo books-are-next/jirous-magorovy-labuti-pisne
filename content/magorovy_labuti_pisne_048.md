@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Jako by rdousila mě krajta
 
 kolik zde máme Fahrenheita
@@ -15,3 +17,5 @@ jen taktak že se neumírá
 Kdyby to věděla máma CIA
 
 kolik zde máme Celsia
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Zatímco Liška s Brikciusem
 
 míří v Oxfordu do pubu
@@ -27,3 +29,5 @@ modlí se s Brikciusem Tomáš
 smějí se mi dny v kalendáři:
 
 zůstal jsi tady – tak to máš!
+
+</section>

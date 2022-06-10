@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Pavel Wilson je za vodou,
 
 za vodou hlubokou s Helenkou,
@@ -25,3 +27,5 @@ my už to tady doořem,
 v pokoře doořem,
 
 pak umřem.
+
+</section>

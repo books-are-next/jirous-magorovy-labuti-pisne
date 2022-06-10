@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 V doslovu čtu ke Stevensonovi
 
 Starého slova o smyslu oběti.
@@ -17,3 +19,5 @@ Jekyllem anebo Hydem?
 Ty u whisky, my nad pivem.
 
 Čím scházíme, tím zajdem.
+
+</section>
