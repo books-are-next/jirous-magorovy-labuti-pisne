@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Zetlelou přikryti korouhví
 
 odpočívají čeští lvi
@@ -23,3 +25,5 @@ Aspoň on kdyby obrys šelmy
 na plátno vrhal
 
 barbar Otakar
+
+</section>

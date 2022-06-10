@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Když básníkům je prabídně,
 
 uchylují se do Vídně.
@@ -29,3 +31,5 @@ v klášteře tady u Jičína:
 Ó básníci, jací jste kanci,
 
 jak zmrhali jste svoji šanci!
+
+</section>

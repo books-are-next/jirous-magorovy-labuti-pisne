@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Funus byl pana Reynka
 
 Básníci se svící
@@ -33,3 +35,5 @@ Už se mi všechno v jedné tříšti
 v jediný slévá hřích
 
 Hosana
+
+</section>

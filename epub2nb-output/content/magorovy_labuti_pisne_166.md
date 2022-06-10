@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Doktor Dubský si po cestě
 
 říkal v Prodané nevěstě.
@@ -25,3 +27,5 @@ hudbu pak syfilitik.
 Národní naší opery
 
 pozoruhodný vznik!
+
+</section>

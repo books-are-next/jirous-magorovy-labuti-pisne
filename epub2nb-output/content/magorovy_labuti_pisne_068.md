@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Cibule kostelů zlátnou a zrají
 
 Slunce se sklání k máji
@@ -17,3 +19,5 @@ Ještě rok tedy prožiji
 pod krutým nebem Kartouz
 
 04826 Jirous
+
+</section>

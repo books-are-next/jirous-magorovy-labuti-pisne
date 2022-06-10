@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 I.
 
 Vzpomínka zastřená přes času dálku:
@@ -33,3 +35,5 @@ A zdali Helena růže má,
 co jsem jí tehdy vystřílel
 
 na pouti ve střelnici?
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Na křídlech andělé ji zvedli
 
 Azuru nebe do klína
@@ -19,3 +21,5 @@ Durmany stíny fialové na
 Alabastr vrhaly
 
 Monastýr potemnělý ve stepi kurhany
+
+</section>

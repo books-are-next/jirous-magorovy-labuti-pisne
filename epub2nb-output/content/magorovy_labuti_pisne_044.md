@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Když vypustí nás z našich cel
 
 po cestě do kostela
@@ -19,3 +21,5 @@ však uvnitř chrám je tmavý
 Buď Bože milostivě
 
 k nám shovívavý
+
+</section>

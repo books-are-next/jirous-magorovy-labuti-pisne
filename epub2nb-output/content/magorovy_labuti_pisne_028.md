@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Oknem se blíží vůně tújí
 
 páry z čaje se usazují
@@ -27,3 +29,5 @@ Studenou když mě rukou hladíš
 aspoň mně přitom srdce chladíš
 
 sevřené taninem
+
+</section>

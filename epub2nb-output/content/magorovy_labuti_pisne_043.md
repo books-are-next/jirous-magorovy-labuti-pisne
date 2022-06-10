@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Tak jako v houslích
 
 zaschne klíh
@@ -25,3 +27,5 @@ nepřiznám se že tiše pláči
 budu se tvářit jak včera bych
 
 odběh jen na pár piv
+
+</section>

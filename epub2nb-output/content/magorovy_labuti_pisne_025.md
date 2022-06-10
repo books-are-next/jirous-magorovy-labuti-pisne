@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Špatně se skládá elegie
 
 když kolem cucají si pyje
@@ -19,3 +21,5 @@ zaznamenám jen sporadicky
 jak jeden odsouzený přelíz
 
 druhému zločincovi penis
+
+</section>

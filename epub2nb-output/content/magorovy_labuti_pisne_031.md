@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Ze zrcadla se loupe rtuť
 
 světlo v tmách čeká na ráno
@@ -19,3 +21,5 @@ ze svíček stéká parafín
 Ó svatý Hugo pomoz nám
 
 přimluv se k odpuštění vin
+
+</section>

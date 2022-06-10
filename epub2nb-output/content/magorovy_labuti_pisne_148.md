@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Ve vzpomínkách se Praha mi
 
 šedivým pustým městem stává
@@ -19,3 +21,5 @@ jak leprou stiženou
 Brzy už Bondyho vlci z hor
 
 do ní se přiženou
+
+</section>

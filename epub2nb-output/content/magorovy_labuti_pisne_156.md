@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Tak vetknuli jí do drdolu
 
 hřebínek z želvoviny
@@ -27,3 +29,5 @@ do plechů mosazných
 do jámy hroudy naházeli
 
 Odpusť nám život samý hřích
+
+</section>

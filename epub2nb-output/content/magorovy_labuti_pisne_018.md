@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Odpočívají bílé myšky
 
 v chládku je Honza Litomiský
@@ -21,3 +23,5 @@ do divokého světa flašek
 vrací se konvertita Vašek
 
 a lahve zvoní mu Te Deum
+
+</section>

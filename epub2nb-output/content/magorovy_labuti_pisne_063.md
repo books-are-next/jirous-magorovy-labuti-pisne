@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Po letech jenom noční můra,
 
 vidina snová dnešní děj:
@@ -17,3 +19,5 @@ své básně povídám.
 Naslouchá mi ten hráč a zloděj,
 
 já cítím se jak Mandelštam.
+
+</section>

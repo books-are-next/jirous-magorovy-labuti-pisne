@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 V té krátké chvíli usínání
 
 než spánek padnul na víčka
@@ -27,3 +29,5 @@ k Bohu se musí vznést
 za bolest Jana Zahradníčka
 
 který se nedočkal
+
+</section>

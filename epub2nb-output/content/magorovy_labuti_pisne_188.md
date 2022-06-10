@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Řek mojí ženě doktor Štěpánek,
 
 obhájce obhájců lidských práv:
@@ -19,3 +21,5 @@ pohledem harpyje:
 Vy zas nevíte, že já mám
 
 kurs psychiatrie!
+
+</section>

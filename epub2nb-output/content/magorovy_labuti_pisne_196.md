@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Přinesu lilii
 
 Bondyho Julii
@@ -27,3 +29,5 @@ cum lauro pimpinellaque.
 Kéž se mé latiny
 
 Julie nelekne!
+
+</section>

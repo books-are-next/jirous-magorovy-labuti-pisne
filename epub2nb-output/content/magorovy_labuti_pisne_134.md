@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Jestli nebe nezesvětlá
 
 zůstaneme beze světla –
@@ -29,3 +31,5 @@ Tvojí vůlí Bože je-li
 abych nezkys jak to zelí
 
 rád Ti vyhovím
+
+</section>

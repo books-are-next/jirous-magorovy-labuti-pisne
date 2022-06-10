@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Svěcenou rosou postříkána
 
 je noc.
@@ -25,3 +27,5 @@ Kouř stoupá k nebesům.
 A něčí ruka laskavá
 
 pohladí spící dům.
+
+</section>

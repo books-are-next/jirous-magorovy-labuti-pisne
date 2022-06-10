@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Panně Marii s děťátkem
 
 andělé drží roucha lem
@@ -27,3 +29,5 @@ Milost máš Panno v srdci svém
 odpusť mi prosím odpusť jen
 
 že jsem takový jaký jsem
+
+</section>

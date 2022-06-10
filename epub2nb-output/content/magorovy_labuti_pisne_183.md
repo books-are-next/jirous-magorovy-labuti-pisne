@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Na plácek k svatému Mikuláši
 
 anděl Bondyho od Slunců snáší
@@ -27,3 +29,5 @@ nad nenadálou adorací
 buší Vltava do jezů
 
 Ó Bondy! Ó Bože! Ó Jesu!
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Vráťa teď okukuje Prátr.
 
 Bratr Karásek ve Švýcarsku
@@ -21,3 +23,5 @@ Mudrc nemusí vyjít z domu.
 Moudřejší snad už nikdo není:
 
 dům zaměnil jsem za vězení.
+
+</section>

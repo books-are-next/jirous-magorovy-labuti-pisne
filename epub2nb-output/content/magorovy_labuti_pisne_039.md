@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Pořád Pane Bože věřím
 
 že mě nevydáš té sběři
@@ -15,3 +17,5 @@ Přesto když katr zařinčí
 leknu se že jak Vavřinci
 
 svatému rošt mi chystají
+
+</section>

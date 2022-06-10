@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Ať mám či nemám na kahánku
 
 Vráťa mi stejně na sopránku
@@ -21,3 +23,5 @@ A že mně koně vyvádějí
 nezazní mi je po naději
 
 v tom světě maligním
+
+</section>

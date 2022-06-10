@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Sicilští plavci zpívali
 
 modlitbu k Panence Marii,
@@ -39,3 +41,5 @@ Panně Marii lilii.
 Království obou Sicilií
 
 je moje srdce s Tvým.
+
+</section>

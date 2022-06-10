@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Čtu Julianin dopis v tichu
 
 Nikolaje zvou do Lutychu
@@ -15,3 +17,5 @@ jako by prý i mne tam zvali
 Běda! královna Fabiola
 
 marně nás marně k sobě volá
+
+</section>

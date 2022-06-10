@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 K narozeninám dal mi nakladatel
 
 dřevěnou lžíci.
@@ -17,3 +19,5 @@ na Weila
 narážka byla?
 
 Ti revoluční romantici!
+
+</section>

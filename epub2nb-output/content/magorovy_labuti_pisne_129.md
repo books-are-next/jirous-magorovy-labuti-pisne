@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Těžko píšu bez Brikciuse
 
 útržkovitě jen a kuse
@@ -11,3 +13,5 @@ Těžko píšu bez Brikciuse
 těžko zde žiju bez Evžena
 
 toužím po něm jak byl by žena
+
+</section>

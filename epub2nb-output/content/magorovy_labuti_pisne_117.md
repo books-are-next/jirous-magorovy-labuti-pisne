@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Sv. Martine, přímluvče mocný,
 
 tys líbal rány malomocných,
@@ -19,3 +21,5 @@ pomoz mi, pomoz žebráku.
 Sv. Martine z Tours,
 
 zbav mě od nočních můr!
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Neplavil jsem se po mořích
 
 a přece sedím v lodi
@@ -17,3 +19,5 @@ Namísto stěžně vztyčen kříž
 tak pořád doufám že mě něžně
 
 nad vodou podržíš
+
+</section>

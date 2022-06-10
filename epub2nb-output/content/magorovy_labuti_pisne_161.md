@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Po ránu mezi ďábly vstávám
 
 pomalu sám se ďáblem stávám
@@ -17,3 +19,5 @@ Pomalu sám se ďáblem stáváš
 Vráťa by k tomu dodal:
 
 kádáš
+
+</section>

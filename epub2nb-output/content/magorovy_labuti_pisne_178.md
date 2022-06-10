@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Zařvala triumfálním rykem
 
 šelma nad mrtvým Amalrikem
@@ -15,3 +17,5 @@ povodeň k božím mlýnům míří
 K poslednímu se strojí reji
 
 kremelské maškary Andreji
+
+</section>

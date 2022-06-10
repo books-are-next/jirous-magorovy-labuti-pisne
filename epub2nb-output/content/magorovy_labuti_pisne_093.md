@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Vráťa vyhlíží ve Vídni
 
 blížící se dny podzimní,
@@ -51,3 +53,5 @@ Ve Vídni – kousek opodál –
 s Marií Vráťa pije meltu.
 
 Přes Znojmo je to kousek jen.
+
+</section>

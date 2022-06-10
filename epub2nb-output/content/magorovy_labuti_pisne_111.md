@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Syrové maso ukaž v ráně
 
 Vysvoboď mě už prosím vrať mě
@@ -19,3 +21,5 @@ Tmu až odhalí nečekaně
 Iridiový meč tvůj vzplane
 
 Nad zemí v bouři rozpoutané
+
+</section>

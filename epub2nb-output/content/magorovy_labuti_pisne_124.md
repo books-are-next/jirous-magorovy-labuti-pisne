@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Bělejší je nad Beránka
 
 bílá kolem něho záře
@@ -39,3 +41,5 @@ k modlitbě se tisknou ruce
 Ty kterýs visel na dřevě
 
 zachraň nás věrné
+
+</section>

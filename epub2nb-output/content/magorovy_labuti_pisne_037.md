@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Že jsem si vzpomněl než jsem to vzdal
 
 co z hory mu vysoké ukázal
@@ -17,3 +19,5 @@ vzpomněl jsem jak ho sebou vzal
 na horu vysokou velmi
 
 20\. května 1983
+
+</section>

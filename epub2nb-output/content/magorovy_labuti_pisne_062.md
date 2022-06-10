@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 V naší rodině ponuře
 
 tíhnem k životu v klauzuře
@@ -19,3 +21,5 @@ to odsedí na žiletkách
 Tak nyní – komunismu mnich –
 
 vzpomínám na ni v Kartouzích
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Nebe polité inkoustem
 
 růžově hlohy kvete zem
@@ -27,3 +29,5 @@ usnuli andělé ve hlohů korunách
 a ty už taky spíš které jsem svoji touhu
 
 schovat se pokusil do básně o hlohu
+
+</section>

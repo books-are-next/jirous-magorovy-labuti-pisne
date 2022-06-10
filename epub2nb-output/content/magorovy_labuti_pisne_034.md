@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: poetry
 ---
 
+<section>
+
 Rozumu snad jsi mě Bože už dočista zbavil
 
 proč jsem se s nimi vůbec bavil
@@ -27,3 +29,5 @@ z jiného abych se těsta ukázal
 Vždyť jinak život už jen žal
 
 20\. května 1983
+
+</section>
