@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-15T15:46:51.114Z'
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - magorovy_labuti_pisne_005.html
