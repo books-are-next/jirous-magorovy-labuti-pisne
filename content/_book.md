@@ -209,7 +209,7 @@ readingOrder:
   - magorovy_labuti_pisne_197.html
   - magorovy_labuti_pisne_198.html
   - magorovy_labuti_pisne_199.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
