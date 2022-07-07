@@ -64,7 +64,7 @@
             "filename": "magorovy_labuti_pisne_003.md",
             "xhtml": "magorovy_labuti_pisne_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -77,7 +77,7 @@
             "filename": "magorovy_labuti_pisne_004.md",
             "xhtml": "magorovy_labuti_pisne_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -2610,7 +2610,7 @@
             "filename": "magorovy_labuti_pisne_200.md",
             "xhtml": "magorovy_labuti_pisne_200.xhtml",
             "id": 198,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -3907,6 +3907,6 @@
       "user": "books-are-next",
       "repo": "jirous-magorovy-labuti-pisne"
     },
-    "generatedAt": 1655978743117
+    "generatedAt": 1657182035915
   }
 }

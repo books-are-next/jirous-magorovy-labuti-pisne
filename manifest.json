@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirous-magorovy-labuti-pisne-9339185",
-  "revision": "9339185",
+  "identifier": "jirous-magorovy-labuti-pisne-7c4d8aa",
+  "revision": "7c4d8aa",
   "readingOrder": [
     "promo.html",
     "magorovy_labuti_pisne_005.html",
@@ -206,11 +206,11 @@
     "magorovy_labuti_pisne_197.html",
     "magorovy_labuti_pisne_198.html",
     "magorovy_labuti_pisne_199.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:08:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978934310
+    "date": "Thu Jul 07 2022 08:28:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182518375
   },
   "documents": [
     {
@@ -2659,7 +2659,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "IV.MY LOVERS ARE OVER THE OCEANS",
+          "name": "IV.MY LOVERS ARE OVER THE OCEANS",
           "id": null,
           "children": []
         }
@@ -4094,7 +4094,7 @@
       "role": "chapter",
       "order": 194,
       "prev": "magorovy_labuti_pisne_198.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -4107,11 +4107,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 139,
-      "chars": 904,
+      "chars": 903,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "magorovy_labuti_pisne_199.html",
       "next": null,
@@ -4129,7 +4129,7 @@
   "totals": {
     "all": {
       "words": 8408,
-      "chars": 44464,
+      "chars": 44463,
       "ideas": 1684
     },
     "chapters": {
