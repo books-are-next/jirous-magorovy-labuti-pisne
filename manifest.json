@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirous-magorovy-labuti-pisne-6ff0bf8",
-  "revision": "6ff0bf8",
+  "identifier": "jirous-magorovy-labuti-pisne-4ad7536",
+  "revision": "4ad7536",
   "readingOrder": [
     "promo.html",
     "magorovy_labuti_pisne_005.html",
@@ -209,8 +209,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:01:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188071481
+    "date": "Thu Jul 21 2022 14:39:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414371448
   },
   "documents": [
     {
@@ -4109,7 +4109,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 139,
-      "chars": 903,
+      "chars": 904,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -4129,7 +4129,7 @@
   "totals": {
     "all": {
       "words": 8408,
-      "chars": 44463,
+      "chars": 44464,
       "ideas": 1684
     },
     "chapters": {
